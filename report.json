@@ -1,0 +1,3516 @@
+{
+  "data": {
+    "title": "Commercial Credit Report",
+    "description": "Custom Report for ABN# 50122406731 ACN# 122406731 - BLUE CHILLI TECHNOLOGY PTY LTD + Credit Report + Scored Insights + PPSR Tri Search + On File ASIC Extract",
+    "creditReport": {
+      "atoTaxDefault": null,
+      "insolvencyNotices": [
+        {
+          "id": "c29341c0-eac5-11eb-8fed-0242ac11000e",
+          "lastmod": "22-07-2021",
+          "title": "NOTICE OF APPLICATION FOR WINDING UP ORDER",
+          "date": "22-07-2021",
+          "reportedBy": "Address: Thomas Chang & Co of Suite 601, Level 6, 265 Castlereagh Street, Sydney NSW 2000\nContact person: Michael Tang\nContact number: 02 9267 3993\nFacsimile: 02 9261 8022\nEmail: michael.tang@thomaschang.com.au",
+          "ruling": "Corporations Act 2001  Paragraph 465A(1)(c)  Regulation 5.4.01A",
+          "publisher": "Address: Thomas Chang & Co of Suite 601, Level 6, 265 Castlereagh Street, Sydney NSW 2000\nContact person: Michael Tang\nContact number: 02 9267 3993\nFacsimile: 02 9261 8022\nEmail: michael.tang@thomaschang.com.au"
+        }
+      ],
+      "paymentDefaults": [],
+      "mercantileEnquiries": [],
+      "courtJudgements": [],
+      "loans": [],
+      "creditEnquiries": 201,
+      "anzsic": {
+        "organisationNumber": "50122406731",
+        "divisionCode": "M",
+        "divisionDescription": "Professional, Scientific and Technical Services",
+        "anzsicCode": "7000",
+        "anzsicDescription": "Computer System Design and Related Services",
+        "subdivisionCode": "70",
+        "subdivisionDescription": "Computer System Design and Related Services",
+        "groupCode": "700",
+        "groupDescription": "Computer System Design and Related Services"
+      }
+    },
+    "organisationExtract": {
+      "additionalDetails": [
+        "This extract contains information derived from the Australian",
+        "Securities and Investment Commission's (ASIC) database under",
+        "section 1274A of the Corporations Act 2001.",
+        "Please advise ASIC of any error or omission which you may identify."
+      ],
+      "billing": {
+        "billingChargeCode": "955A",
+        "billingType": "C"
+      },
+      "companyAddresses": [
+        {
+          "addressStartDate": "14-01-2021",
+          "addressEndDate": null,
+          "addressType": "Registered Office",
+          "address2": "SUITE 502 LEVEL 5",
+          "careOf": "KRIGSMAN PARTNERS",
+          "city": "MELBOURNE",
+          "country": null,
+          "detailsType": "Current",
+          "documentNumber": "7EBD63525",
+          "documentNumberQualifier": null,
+          "postcode": "3000",
+          "state": "VIC",
+          "street": "140 BOURKE STREET"
+        },
+        {
+          "addressStartDate": "13-01-2021",
+          "addressEndDate": null,
+          "addressType": "Registered Office",
+          "address2": "SE 502 L 5",
+          "careOf": "KRIGSMAN PARTNERS",
+          "city": "MELBOURNE",
+          "country": null,
+          "detailsType": "Current",
+          "documentNumber": null,
+          "documentNumberQualifier": null,
+          "postcode": "3000",
+          "state": null,
+          "street": "140 BOURKE ST"
+        },
+        {
+          "addressStartDate": "13-01-2015",
+          "addressEndDate": null,
+          "addressType": "Principal Place of Business",
+          "address2": null,
+          "careOf": null,
+          "city": "SYDNEY",
+          "country": null,
+          "detailsType": "Current",
+          "documentNumber": "7E6645053",
+          "documentNumberQualifier": null,
+          "postcode": "2000",
+          "state": "NSW",
+          "street": "125 YORK STREET"
+        }
+      ],
+      "companyOfficeHolders": [
+        {
+          "address2": null,
+          "appointmentDate": "27-10-2006",
+          "ceasedDate": null,
+          "australianBusinessNumber": null,
+          "birthLocation": {
+            "countryName": null,
+            "iSO3166CountryCode": null,
+            "line1": null,
+            "line2": null,
+            "line3": null,
+            "locality": "HOBART",
+            "postcode": null,
+            "state": "TAS",
+            "suburb": null
+          },
+          "address": {
+            "countryName": null,
+            "iSO3166CountryCode": null,
+            "line1": null,
+            "line2": "50 PARKHAM STREET",
+            "line3": null,
+            "locality": null,
+            "postcode": "2010",
+            "state": "NSW",
+            "suburb": "SURRY HILLS"
+          },
+          "careOf": null,
+          "detailsType": "Current",
+          "documentNumber": "7E6642307",
+          "familyName": "ECKERSLEY-MASLIN",
+          "givenName1": "SEBASTIEN",
+          "givenName2": null,
+          "givenName3": null,
+          "officerBirthDate": "03-05-1982",
+          "officerName": null,
+          "officerOrganisationNumber": null,
+          "organisationNumberHeading": null,
+          "roleType": "Director",
+          "knownInformation": [
+            {
+              "organisationNumber": "141425532",
+              "detailsType": "Current",
+              "organisationName": "CALEADRA PTY LTD",
+              "organisationStatus": "Registered",
+              "creditReport": {
+                "insolvencyNotices": [
+                  {
+                    "id": "c1d514ce-cf89-11e9-85e1-88e9fe73838a",
+                    "lastmod": "09-04-2014",
+                    "title": "NOTICE OF PROPOSED DEREGISTRATION - ASIC initiated under s601AB(1) or (1A)",
+                    "date": null,
+                    "reportedBy": null,
+                    "ruling": "Corporations Act 2001  Subsection 601AB(3)",
+                    "publisher": "ASIC published this notice      This notice does not mean that the company was deregistered. To check whether the company was deregistered following publication of this notice, search the ASIC database using the ASIC Connect function on ASIC's"
+                  }
+                ],
+                "paymentDefaults": [],
+                "mercantileEnquiries": [],
+                "courtJudgements": [],
+                "loans": [],
+                "creditEnquiries": null
+              },
+              "highRisk": true,
+              "criticalAsicDocuments": []
+            },
+            {
+              "organisationNumber": "154173154",
+              "detailsType": "Current",
+              "organisationName": "BLUECHILLI CAPITAL PTY LTD",
+              "organisationStatus": "Registered",
+              "creditReport": {
+                "insolvencyNotices": [],
+                "paymentDefaults": [],
+                "mercantileEnquiries": [],
+                "courtJudgements": [],
+                "loans": [],
+                "creditEnquiries": null
+              },
+              "highRisk": false,
+              "criticalAsicDocuments": []
+            },
+            {
+              "organisationNumber": "158416490",
+              "detailsType": "Ceased/Former",
+              "organisationName": "GIGGEDIN PTY LTD",
+              "organisationStatus": "Under External Administration And/Or Controller Appointed",
+              "creditReport": {
+                "insolvencyNotices": [],
+                "paymentDefaults": [],
+                "mercantileEnquiries": [],
+                "courtJudgements": [],
+                "loans": [],
+                "creditEnquiries": null
+              },
+              "highRisk": false,
+              "criticalAsicDocuments": []
+            },
+            {
+              "organisationNumber": "161235258",
+              "detailsType": "Current",
+              "organisationName": "TOKEN ONE PTY LTD",
+              "organisationStatus": "Registered",
+              "creditReport": {
+                "insolvencyNotices": [],
+                "paymentDefaults": [],
+                "mercantileEnquiries": [],
+                "courtJudgements": [],
+                "loans": [],
+                "creditEnquiries": null
+              },
+              "highRisk": false,
+              "criticalAsicDocuments": []
+            },
+            {
+              "organisationNumber": "161328678",
+              "detailsType": "Ceased/Former",
+              "organisationName": "HOUSL PTY LTD",
+              "organisationStatus": "Deregistered",
+              "creditReport": {
+                "insolvencyNotices": [],
+                "paymentDefaults": [],
+                "mercantileEnquiries": [],
+                "courtJudgements": [],
+                "loans": [],
+                "creditEnquiries": null
+              },
+              "highRisk": false,
+              "criticalAsicDocuments": []
+            },
+            {
+              "organisationNumber": "161570145",
+              "detailsType": "Current",
+              "organisationName": "DIGITALSORBET PTY LTD",
+              "organisationStatus": "Deregistered",
+              "creditReport": {
+                "insolvencyNotices": [
+                  {
+                    "id": "59731e62-cf89-11e9-9bb4-88e9fe73838a",
+                    "lastmod": "03-03-2016",
+                    "title": "NOTICE OF PROPOSED DEREGISTRATION - ASIC initiated under s601AB(1) or (1A)",
+                    "date": null,
+                    "reportedBy": null,
+                    "ruling": "Corporations Act 2001  Subsection 601AB(3)",
+                    "publisher": "ASIC published this notice      This notice does not mean that the company was deregistered. To check whether the company was deregistered following publication of this notice, search the ASIC database using the ASIC Connect function on ASIC's"
+                  }
+                ],
+                "paymentDefaults": [],
+                "mercantileEnquiries": [],
+                "courtJudgements": [],
+                "loans": [],
+                "creditEnquiries": null
+              },
+              "highRisk": true,
+              "criticalAsicDocuments": []
+            },
+            {
+              "organisationNumber": "162877867",
+              "detailsType": "Ceased/Former",
+              "organisationName": "DIVVY PARKING PTY LTD",
+              "organisationStatus": "Registered",
+              "creditReport": {
+                "insolvencyNotices": [],
+                "paymentDefaults": [],
+                "mercantileEnquiries": [],
+                "courtJudgements": [],
+                "loans": [],
+                "creditEnquiries": null
+              },
+              "highRisk": false,
+              "criticalAsicDocuments": []
+            },
+            {
+              "organisationNumber": "164998734",
+              "detailsType": "Ceased/Former",
+              "organisationName": "LIQUORUN PTY LTD",
+              "organisationStatus": "Registered",
+              "creditReport": {
+                "insolvencyNotices": [],
+                "paymentDefaults": [],
+                "mercantileEnquiries": [],
+                "courtJudgements": [],
+                "loans": [],
+                "creditEnquiries": null
+              },
+              "highRisk": false,
+              "criticalAsicDocuments": []
+            },
+            {
+              "organisationNumber": "166066379",
+              "detailsType": "Ceased/Former",
+              "organisationName": "DISTRIBUTED LOGISTICS PTY. LTD.",
+              "organisationStatus": "Registered",
+              "creditReport": {
+                "insolvencyNotices": [],
+                "paymentDefaults": [],
+                "mercantileEnquiries": [],
+                "courtJudgements": [],
+                "loans": [],
+                "creditEnquiries": null
+              },
+              "highRisk": false,
+              "criticalAsicDocuments": []
+            },
+            {
+              "organisationNumber": "604611556",
+              "detailsType": "Ceased/Former",
+              "organisationName": "GETSWIFT LIMITED",
+              "organisationStatus": "Under External Administration And/Or Controller Appointed",
+              "creditReport": {
+                "insolvencyNotices": [],
+                "paymentDefaults": [],
+                "mercantileEnquiries": [],
+                "courtJudgements": [],
+                "loans": [],
+                "creditEnquiries": null
+              },
+              "highRisk": false,
+              "criticalAsicDocuments": []
+            },
+            {
+              "organisationNumber": "605045654",
+              "detailsType": "Ceased/Former",
+              "organisationName": "GET SWIFT LOGISTICS PTY LTD",
+              "organisationStatus": "Under External Administration And/Or Controller Appointed",
+              "creditReport": {
+                "insolvencyNotices": [],
+                "paymentDefaults": [],
+                "mercantileEnquiries": [],
+                "courtJudgements": [],
+                "loans": [],
+                "creditEnquiries": null
+              },
+              "highRisk": false,
+              "criticalAsicDocuments": []
+            },
+            {
+              "organisationNumber": "616378600",
+              "detailsType": "Current",
+              "organisationName": "BLUECHILLI CAPITAL INTERNATIONAL PTY LTD",
+              "organisationStatus": "Registered",
+              "creditReport": {
+                "insolvencyNotices": [],
+                "paymentDefaults": [],
+                "mercantileEnquiries": [],
+                "courtJudgements": [],
+                "loans": [],
+                "creditEnquiries": null
+              },
+              "highRisk": false,
+              "criticalAsicDocuments": []
+            },
+            {
+              "organisationNumber": "642308030",
+              "detailsType": "Current",
+              "organisationName": "PHYLLOME PTY LTD",
+              "organisationStatus": "Registered",
+              "creditReport": {
+                "insolvencyNotices": [],
+                "paymentDefaults": [],
+                "mercantileEnquiries": [],
+                "courtJudgements": [],
+                "loans": [],
+                "creditEnquiries": null
+              },
+              "highRisk": false,
+              "criticalAsicDocuments": []
+            }
+          ],
+          "isBankruptcy": false,
+          "bankruptcyLastfetched": 1653607162
+        },
+        {
+          "address2": null,
+          "appointmentDate": "06-10-2017",
+          "ceasedDate": null,
+          "australianBusinessNumber": null,
+          "birthLocation": {
+            "countryName": null,
+            "iSO3166CountryCode": null,
+            "line1": null,
+            "line2": null,
+            "line3": null,
+            "locality": "LONDON",
+            "postcode": null,
+            "state": "CANADA",
+            "suburb": null
+          },
+          "address": {
+            "countryName": null,
+            "iSO3166CountryCode": null,
+            "line1": null,
+            "line2": "26 COLLINS ROAD",
+            "line3": null,
+            "locality": null,
+            "postcode": "2075",
+            "state": "NSW",
+            "suburb": "ST IVES"
+          },
+          "careOf": null,
+          "detailsType": "Current",
+          "documentNumber": "7E9521476",
+          "familyName": "POIER",
+          "givenName1": "LUTHER",
+          "givenName2": null,
+          "givenName3": null,
+          "officerBirthDate": "03-02-1962",
+          "officerName": null,
+          "officerOrganisationNumber": null,
+          "organisationNumberHeading": null,
+          "roleType": "Secretary",
+          "knownInformation": [
+            {
+              "organisationNumber": "010780631",
+              "detailsType": "Ceased/Former",
+              "organisationName": "VANWELL PTY. LTD.",
+              "organisationStatus": "Deregistered",
+              "creditReport": {
+                "insolvencyNotices": [
+                  {
+                    "id": "08f57f82-971c-11eb-a8e5-0242ac110002",
+                    "lastmod": "07-04-2021",
+                    "title": "NOTICE OF PROPOSED DEREGISTRATION - ASIC initiated under s601AB(1) or (1A)",
+                    "date": null,
+                    "reportedBy": null,
+                    "ruling": "Corporations Act 2001  Subsection 601AB(3)",
+                    "publisher": "ASIC published this notice      This notice does not mean that the company was deregistered. To check whether the company was deregistered following publication of this notice, search the ASIC database using the ASIC Connect function on ASIC's website www.asic.gov.au"
+                  }
+                ],
+                "paymentDefaults": [],
+                "mercantileEnquiries": [],
+                "courtJudgements": [],
+                "loans": [],
+                "creditEnquiries": null
+              },
+              "highRisk": true,
+              "criticalAsicDocuments": []
+            },
+            {
+              "organisationNumber": "078597645",
+              "detailsType": "Ceased/Former",
+              "organisationName": "LAKERANGE PTY LTD",
+              "organisationStatus": "Deregistered",
+              "creditReport": {
+                "insolvencyNotices": [
+                  {
+                    "id": "22b0af04-fa1e-11eb-94c7-0242ac110022",
+                    "lastmod": "11-08-2021",
+                    "title": "NOTICE OF PROPOSED DEREGISTRATION - ASIC initiated under s601AB(1) or (1A)",
+                    "date": null,
+                    "reportedBy": null,
+                    "ruling": "Corporations Act 2001  Subsection 601AB(3)",
+                    "publisher": "ASIC published this notice      This notice does not mean that the company was deregistered. To check whether the company was deregistered following publication of this notice, search the ASIC database using the ASIC Connect function on ASIC's website www.asic.gov.au"
+                  }
+                ],
+                "paymentDefaults": [],
+                "mercantileEnquiries": [],
+                "courtJudgements": [],
+                "loans": [],
+                "creditEnquiries": null
+              },
+              "highRisk": true,
+              "criticalAsicDocuments": []
+            },
+            {
+              "organisationNumber": "088261349",
+              "detailsType": "Ceased/Former",
+              "organisationName": "CERTANE SPV MANAGEMENT PTY LTD",
+              "organisationStatus": "Registered",
+              "creditReport": {
+                "insolvencyNotices": [],
+                "paymentDefaults": [],
+                "mercantileEnquiries": [],
+                "courtJudgements": [],
+                "loans": [],
+                "creditEnquiries": null
+              },
+              "highRisk": false,
+              "criticalAsicDocuments": []
+            },
+            {
+              "organisationNumber": "091301487",
+              "detailsType": "Current",
+              "organisationName": "LAKEWELL MANAGEMENT PTY LTD",
+              "organisationStatus": "Deregistered",
+              "creditReport": {
+                "insolvencyNotices": [
+                  {
+                    "id": "e7a56c42-7dea-11eb-9e0e-0242ac110020",
+                    "lastmod": "06-03-2021",
+                    "title": "NOTICE OF PROPOSED DEREGISTRATION - Voluntary",
+                    "date": null,
+                    "reportedBy": null,
+                    "ruling": "Corporations Act 2001  Subsection 601AA(4)",
+                    "publisher": "ASIC published this notice      This notice does not mean that the company was deregistered. To check whether the company was deregistered following publication of this notice, search the ASIC database using the ASIC Connect function on ASIC's website www.asic.gov.au"
+                  }
+                ],
+                "paymentDefaults": [],
+                "mercantileEnquiries": [],
+                "courtJudgements": [],
+                "loans": [],
+                "creditEnquiries": null
+              },
+              "highRisk": true,
+              "criticalAsicDocuments": []
+            },
+            {
+              "organisationNumber": "105003923",
+              "detailsType": "Ceased/Former",
+              "organisationName": "UNIVERSAL LOVE RETREAT PTY LTD",
+              "organisationStatus": "Deregistered",
+              "creditReport": {
+                "insolvencyNotices": [
+                  {
+                    "id": "8b59c73a-052b-11ec-8a29-0242ac11000c",
+                    "lastmod": "25-08-2021",
+                    "title": "NOTICE OF PROPOSED DEREGISTRATION - ASIC initiated under s601AB(1) or (1A)",
+                    "date": null,
+                    "reportedBy": null,
+                    "ruling": "Corporations Act 2001  Subsection 601AB(3)",
+                    "publisher": "ASIC published this notice      This notice does not mean that the company was deregistered. To check whether the company was deregistered following publication of this notice, search the ASIC database using the ASIC Connect function on ASIC's website www.asic.gov.au"
+                  }
+                ],
+                "paymentDefaults": [],
+                "mercantileEnquiries": [],
+                "courtJudgements": [],
+                "loans": [],
+                "creditEnquiries": null
+              },
+              "highRisk": true,
+              "criticalAsicDocuments": []
+            },
+            {
+              "organisationNumber": "105980238",
+              "detailsType": "Current",
+              "organisationName": "LAKEWELL PTY LTD",
+              "organisationStatus": "Deregistered",
+              "creditReport": {
+                "insolvencyNotices": [
+                  {
+                    "id": "349b2b08-47ea-11ec-b44e-0242ac110009",
+                    "lastmod": "18-11-2021",
+                    "title": "NOTICE OF PROPOSED DEREGISTRATION - ASIC initiated under s601AB(1) or (1A)",
+                    "date": null,
+                    "reportedBy": null,
+                    "ruling": "Corporations Act 2001  Subsection 601AB(3)",
+                    "publisher": "ASIC published this notice      This notice does not mean that the company was deregistered. To check whether the company was deregistered following publication of this notice, search the ASIC database using the ASIC Connect function on ASIC's website www.asic.gov.au"
+                  }
+                ],
+                "paymentDefaults": [],
+                "mercantileEnquiries": [],
+                "courtJudgements": [],
+                "loans": [],
+                "creditEnquiries": null
+              },
+              "highRisk": true,
+              "criticalAsicDocuments": []
+            },
+            {
+              "organisationNumber": "106424088",
+              "detailsType": "Ceased/Former",
+              "organisationName": "CERTANE CT PTY LTD",
+              "organisationStatus": "Registered",
+              "creditReport": {
+                "insolvencyNotices": [],
+                "paymentDefaults": [],
+                "mercantileEnquiries": [],
+                "courtJudgements": [],
+                "loans": [],
+                "creditEnquiries": null
+              },
+              "highRisk": false,
+              "criticalAsicDocuments": []
+            },
+            {
+              "organisationNumber": "125412393",
+              "detailsType": "Current",
+              "organisationName": "REDEMPTION CAPITAL PTY LTD",
+              "organisationStatus": "Registered",
+              "creditReport": {
+                "insolvencyNotices": [],
+                "paymentDefaults": [],
+                "mercantileEnquiries": [],
+                "courtJudgements": [],
+                "loans": [],
+                "creditEnquiries": null
+              },
+              "highRisk": false,
+              "criticalAsicDocuments": []
+            },
+            {
+              "organisationNumber": "154173154",
+              "detailsType": "Current",
+              "organisationName": "BLUECHILLI CAPITAL PTY LTD",
+              "organisationStatus": "Registered",
+              "creditReport": {
+                "insolvencyNotices": [],
+                "paymentDefaults": [],
+                "mercantileEnquiries": [],
+                "courtJudgements": [],
+                "loans": [],
+                "creditEnquiries": null
+              },
+              "highRisk": false,
+              "criticalAsicDocuments": []
+            },
+            {
+              "organisationNumber": "159605259",
+              "detailsType": "Current",
+              "organisationName": "LYSIANTHUS PTY LTD",
+              "organisationStatus": "Registered",
+              "creditReport": {
+                "insolvencyNotices": [],
+                "paymentDefaults": [],
+                "mercantileEnquiries": [],
+                "courtJudgements": [],
+                "loans": [],
+                "creditEnquiries": null
+              },
+              "highRisk": false,
+              "criticalAsicDocuments": []
+            },
+            {
+              "organisationNumber": "002024839",
+              "detailsType": "Ceased/Former",
+              "organisationName": "NORTHERN BEACHES CHRISTIAN SCHOOL",
+              "organisationStatus": "Registered",
+              "creditReport": {
+                "insolvencyNotices": [],
+                "paymentDefaults": [],
+                "mercantileEnquiries": [],
+                "courtJudgements": [],
+                "loans": [],
+                "creditEnquiries": null
+              },
+              "highRisk": false,
+              "criticalAsicDocuments": []
+            }
+          ],
+          "isBankruptcy": false,
+          "bankruptcyLastfetched": 1653607162
+        }
+      ],
+      "contactAddresses": [
+        {
+          "addressStartDate": "07-01-2013",
+          "addressType": "Contact Address for ASIC use only",
+          "address2": "PO BOX 24435",
+          "careOf": null,
+          "city": "MELBOURNE",
+          "country": null,
+          "detailsType": "Current",
+          "documentNumber": null,
+          "postcode": "3001",
+          "state": "VIC",
+          "street": null,
+          "addressEndDate": null
+        }
+      ],
+      "financialReports": [],
+      "header": {
+        "clientId": "CLIENT",
+        "clientReference": "CLIENT REF",
+        "jurisdiction": "9",
+        "messageCreationDate": "14-10-2022",
+        "messageCreationTime": "11:39:40",
+        "messageTraceNumber": "5189100",
+        "messageType": "YHDASCDSCE",
+        "version": "1100"
+      },
+      "organisation": {
+        "acnc": null,
+        "australianBusinessNumber": "50122406731",
+        "governanceType": null,
+        "organisationName": "BLUE CHILLI TECHNOLOGY PTY LTD",
+        "organisationNumber": "122406731",
+        "organisationNumberHeading": "Australian Company Number",
+        "organisationState": "NSW",
+        "previousStateNumber": null,
+        "registrationDate": "27-10-2006",
+        "reviewDate": "27-10-2022",
+        "historicalChanges": [
+          {
+            "dateDeregistered": null,
+            "detailsType": "Current",
+            "disclosingEntity": "No",
+            "documentNumber": "1E2635086",
+            "documentNumberQualifier": null,
+            "organisationClass": "Limited By Shares",
+            "organisationName": "BLUE CHILLI TECHNOLOGY PTY LTD",
+            "organisationNameStartDate": "27-10-2006",
+            "organisationStatus": "Registered",
+            "organisationSubClass": "Proprietary Company",
+            "organisationType": "Australian Proprietary Company",
+            "reasonDeregistered": null,
+            "schemeCategory1": null,
+            "schemeCategory2": null,
+            "schemeCategory3": null,
+            "schemeCategory4": null,
+            "startDate": "27-10-2006",
+            "endDate": null
+          }
+        ]
+      },
+      "shareCapitalGroup": [
+        {
+          "classCode": "ORD",
+          "classTitle": "ORDINARY",
+          "detailsType": "Current",
+          "documentNumber": "7EBE48058",
+          "documentNumberQualifier": null,
+          "numberOfShares": 1355147,
+          "totalAmountDueAndPayable": 0,
+          "totalAmountPaid": 11114785
+        }
+      ],
+      "shareInterests": [
+        {
+          "beneficiallyOwned": false,
+          "classCode": "ORD",
+          "detailsType": "Current",
+          "documentNumber": "7E6359915",
+          "documentNumberQualifier": null,
+          "fullyPaid": true,
+          "members": [
+            {
+              "memberOrganisationNumber": "159418667",
+              "organisationNumberHeading": "Australian Company Number",
+              "memberName": "HACKETT CP NOMINEES PTY LTD",
+              "address2": null,
+              "careOf": null,
+              "city": "KENT TOWN",
+              "country": null,
+              "familyName": null,
+              "givenName1": null,
+              "givenName2": null,
+              "jointHolding": false,
+              "postcode": "5067",
+              "state": "SA",
+              "street": "64 NORTH TERRACE",
+              "australianBusinessNumber": null
+            }
+          ],
+          "numberHeld": "97092"
+        },
+        {
+          "beneficiallyOwned": true,
+          "classCode": "ORD",
+          "detailsType": "Current",
+          "documentNumber": "7E6361437",
+          "documentNumberQualifier": null,
+          "fullyPaid": true,
+          "members": [
+            {
+              "memberOrganisationNumber": "004116296",
+              "organisationNumberHeading": "Australian Company Number",
+              "memberName": "THE MYER FAMILY INVESTMENTS PTY LTD",
+              "address2": "LEVEL 18",
+              "careOf": null,
+              "city": "MELBOURNE",
+              "country": null,
+              "familyName": null,
+              "givenName1": null,
+              "givenName2": null,
+              "jointHolding": false,
+              "postcode": "3000",
+              "state": "VIC",
+              "street": "8 EXHIBITION STREET",
+              "australianBusinessNumber": "32004116296"
+            }
+          ],
+          "numberHeld": "302850"
+        },
+        {
+          "beneficiallyOwned": true,
+          "classCode": "ORD",
+          "detailsType": "Current",
+          "documentNumber": "7E6644940",
+          "documentNumberQualifier": null,
+          "fullyPaid": true,
+          "members": [
+            {
+              "memberOrganisationNumber": null,
+              "organisationNumberHeading": null,
+              "memberName": null,
+              "address2": null,
+              "careOf": null,
+              "city": "WEST PENNANT HILLS",
+              "country": null,
+              "familyName": "PADDISON",
+              "givenName1": "JEREMY",
+              "givenName2": "WAYNE",
+              "jointHolding": false,
+              "postcode": "2125",
+              "state": "NSW",
+              "street": "526 PENNANT HILLS ROAD",
+              "australianBusinessNumber": null
+            }
+          ],
+          "numberHeld": "101018"
+        },
+        {
+          "beneficiallyOwned": false,
+          "classCode": "ORD",
+          "detailsType": "Current",
+          "documentNumber": "7E6644940",
+          "documentNumberQualifier": null,
+          "fullyPaid": true,
+          "members": [
+            {
+              "memberOrganisationNumber": "168542023",
+              "organisationNumberHeading": "Australian Company Number",
+              "memberName": "YAKISOBA CAPITAL PTY LTD",
+              "address2": "LEVEL 15",
+              "careOf": null,
+              "city": "BRISBANE",
+              "country": null,
+              "familyName": null,
+              "givenName1": null,
+              "givenName2": null,
+              "jointHolding": false,
+              "postcode": "4000",
+              "state": "QLD",
+              "street": "66 EAGLE STREET",
+              "australianBusinessNumber": null
+            }
+          ],
+          "numberHeld": "20186"
+        },
+        {
+          "beneficiallyOwned": false,
+          "classCode": "ORD",
+          "detailsType": "Current",
+          "documentNumber": "7E6645063",
+          "documentNumberQualifier": null,
+          "fullyPaid": true,
+          "members": [
+            {
+              "memberOrganisationNumber": "141425532",
+              "organisationNumberHeading": "Australian Company Number",
+              "memberName": "CALEADRA PTY LTD",
+              "address2": null,
+              "careOf": null,
+              "city": "SURRY HILLS",
+              "country": null,
+              "familyName": null,
+              "givenName1": null,
+              "givenName2": null,
+              "jointHolding": false,
+              "postcode": "2010",
+              "state": "NSW",
+              "street": "50 PARKHAM STREET",
+              "australianBusinessNumber": null
+            }
+          ],
+          "numberHeld": "689907"
+        },
+        {
+          "beneficiallyOwned": false,
+          "classCode": "ORD",
+          "detailsType": "Current",
+          "documentNumber": "7E7803734",
+          "documentNumberQualifier": null,
+          "fullyPaid": true,
+          "members": [
+            {
+              "memberOrganisationNumber": null,
+              "organisationNumberHeading": null,
+              "memberName": "LDI CONNECT 20 PORTFOLIO",
+              "address2": "LEVEL 5",
+              "careOf": null,
+              "city": "SYDNEY",
+              "country": null,
+              "familyName": null,
+              "givenName1": null,
+              "givenName2": null,
+              "jointHolding": false,
+              "postcode": "2000",
+              "state": "NSW",
+              "street": "10-14 SPRING STREET",
+              "australianBusinessNumber": null
+            }
+          ],
+          "numberHeld": "19076"
+        },
+        {
+          "beneficiallyOwned": false,
+          "classCode": "ORD",
+          "detailsType": "Current",
+          "documentNumber": "7E7803734",
+          "documentNumberQualifier": null,
+          "fullyPaid": true,
+          "members": [
+            {
+              "memberOrganisationNumber": null,
+              "organisationNumberHeading": null,
+              "memberName": null,
+              "address2": null,
+              "careOf": null,
+              "city": "WEST PENNANT HILLS",
+              "country": null,
+              "familyName": "KHWAJA",
+              "givenName1": "MAHMOUD",
+              "givenName2": null,
+              "jointHolding": false,
+              "postcode": "2125",
+              "state": "NSW",
+              "street": "5 GOTTWALD PLACE",
+              "australianBusinessNumber": null
+            }
+          ],
+          "numberHeld": "848"
+        },
+        {
+          "beneficiallyOwned": false,
+          "classCode": "ORD",
+          "detailsType": "Current",
+          "documentNumber": "7E8037090",
+          "documentNumberQualifier": null,
+          "fullyPaid": true,
+          "members": [
+            {
+              "memberOrganisationNumber": null,
+              "organisationNumberHeading": null,
+              "memberName": null,
+              "address2": "611 WASHINGTON STREET",
+              "careOf": null,
+              "city": "APT 2502, SAN FRANCISCO, CA, 9",
+              "country": "UNITED STATES",
+              "familyName": "BELL",
+              "givenName1": "GORDON",
+              "givenName2": null,
+              "jointHolding": false,
+              "postcode": null,
+              "state": null,
+              "street": "4111",
+              "australianBusinessNumber": null
+            }
+          ],
+          "numberHeld": "1060"
+        },
+        {
+          "beneficiallyOwned": false,
+          "classCode": "ORD",
+          "detailsType": "Current",
+          "documentNumber": "7E8037090",
+          "documentNumberQualifier": null,
+          "fullyPaid": true,
+          "members": [
+            {
+              "memberOrganisationNumber": "005198738",
+              "organisationNumberHeading": "Australian Company Number",
+              "memberName": "WANGANUI PTY. LTD.",
+              "address2": "LEVEL 10",
+              "careOf": null,
+              "city": "MELBOURNE",
+              "country": null,
+              "familyName": null,
+              "givenName1": null,
+              "givenName2": null,
+              "jointHolding": false,
+              "postcode": "3000",
+              "state": "VIC",
+              "street": "267 COLLINS STREET",
+              "australianBusinessNumber": null
+            }
+          ],
+          "numberHeld": "21196"
+        },
+        {
+          "beneficiallyOwned": false,
+          "classCode": "ORD",
+          "detailsType": "Current",
+          "documentNumber": "7E8076896",
+          "documentNumberQualifier": null,
+          "fullyPaid": true,
+          "members": [
+            {
+              "memberOrganisationNumber": "159605259",
+              "organisationNumberHeading": "Australian Company Number",
+              "memberName": "LYSIANTHUS PTY LTD",
+              "address2": "GPO BOX 9988",
+              "careOf": null,
+              "city": "ADELAIDE",
+              "country": null,
+              "familyName": null,
+              "givenName1": null,
+              "givenName2": null,
+              "jointHolding": false,
+              "postcode": "5001",
+              "state": "SA",
+              "street": null,
+              "australianBusinessNumber": null
+            }
+          ],
+          "numberHeld": "1060"
+        },
+        {
+          "beneficiallyOwned": true,
+          "classCode": "ORD",
+          "detailsType": "Current",
+          "documentNumber": "7E8164891",
+          "documentNumberQualifier": null,
+          "fullyPaid": true,
+          "members": [
+            {
+              "memberOrganisationNumber": null,
+              "organisationNumberHeading": null,
+              "memberName": null,
+              "address2": null,
+              "careOf": null,
+              "city": "MANLY",
+              "country": null,
+              "familyName": "PLAYOUST",
+              "givenName1": "MICHELLE",
+              "givenName2": null,
+              "jointHolding": false,
+              "postcode": "2095",
+              "state": "NSW",
+              "street": "34 BOWER STREET",
+              "australianBusinessNumber": null
+            }
+          ],
+          "numberHeld": "1060"
+        },
+        {
+          "beneficiallyOwned": false,
+          "classCode": "ORD",
+          "detailsType": "Current",
+          "documentNumber": "7E9526075",
+          "documentNumberQualifier": null,
+          "fullyPaid": true,
+          "members": [
+            {
+              "memberOrganisationNumber": "152188326",
+              "organisationNumberHeading": "Australian Company Number",
+              "memberName": "DITCHLEY PTY LTD",
+              "address2": "UNIT U7",
+              "careOf": null,
+              "city": "DARLING POINT",
+              "country": null,
+              "familyName": null,
+              "givenName1": null,
+              "givenName2": null,
+              "jointHolding": false,
+              "postcode": "2027",
+              "state": "NSW",
+              "street": "12 ETHAN AVENUE",
+              "australianBusinessNumber": null
+            }
+          ],
+          "numberHeld": "7891"
+        },
+        {
+          "beneficiallyOwned": false,
+          "classCode": "ORD",
+          "detailsType": "Current",
+          "documentNumber": "7E9526075",
+          "documentNumberQualifier": null,
+          "fullyPaid": true,
+          "members": [
+            {
+              "memberOrganisationNumber": "062736896",
+              "organisationNumberHeading": "Australian Company Number",
+              "memberName": "GLENN BATES CONSULTING PTY. LIMITED",
+              "address2": "UNIT 1",
+              "careOf": null,
+              "city": "KIRRIBILLI",
+              "country": null,
+              "familyName": null,
+              "givenName1": null,
+              "givenName2": null,
+              "jointHolding": false,
+              "postcode": "2061",
+              "state": "NSW",
+              "street": "71 KIRRIBILLI AVENUE",
+              "australianBusinessNumber": "28062736896"
+            }
+          ],
+          "numberHeld": "7891"
+        },
+        {
+          "beneficiallyOwned": false,
+          "classCode": "ORD",
+          "detailsType": "Current",
+          "documentNumber": "7E9526075",
+          "documentNumberQualifier": null,
+          "fullyPaid": true,
+          "members": [
+            {
+              "memberOrganisationNumber": "003436879",
+              "organisationNumberHeading": "Australian Company Number",
+              "memberName": "DYLIDE PTY LTD",
+              "address2": null,
+              "careOf": null,
+              "city": "MANLY",
+              "country": null,
+              "familyName": null,
+              "givenName1": null,
+              "givenName2": null,
+              "jointHolding": false,
+              "postcode": "2095",
+              "state": "NSW",
+              "street": "73 BOWER STREET",
+              "australianBusinessNumber": "55003436879"
+            }
+          ],
+          "numberHeld": "15780"
+        },
+        {
+          "beneficiallyOwned": false,
+          "classCode": "ORD",
+          "detailsType": "Current",
+          "documentNumber": "7E9526075",
+          "documentNumberQualifier": null,
+          "fullyPaid": true,
+          "members": [
+            {
+              "memberOrganisationNumber": "158407624",
+              "organisationNumberHeading": "Australian Company Number",
+              "memberName": "ALYSE PTY LTD",
+              "address2": "UNIT 5",
+              "careOf": null,
+              "city": "KURRABA POINT",
+              "country": null,
+              "familyName": null,
+              "givenName1": null,
+              "givenName2": null,
+              "jointHolding": false,
+              "postcode": "2089",
+              "state": "NSW",
+              "street": "123 KURRABA ROAD",
+              "australianBusinessNumber": "44158407624"
+            }
+          ],
+          "numberHeld": "1579"
+        },
+        {
+          "beneficiallyOwned": false,
+          "classCode": "ORD",
+          "detailsType": "Current",
+          "documentNumber": "6E4398623",
+          "documentNumberQualifier": null,
+          "fullyPaid": true,
+          "members": [
+            {
+              "memberOrganisationNumber": "614379323",
+              "organisationNumberHeading": "Australian Company Number",
+              "memberName": "BENDO MG PTY LTD",
+              "address2": "SUITE 502 LEVEL 5",
+              "careOf": null,
+              "city": "MELBOURNE",
+              "country": null,
+              "familyName": null,
+              "givenName1": null,
+              "givenName2": null,
+              "jointHolding": false,
+              "postcode": "3000",
+              "state": "VIC",
+              "street": "140 BOURKE STREET",
+              "australianBusinessNumber": null
+            }
+          ],
+          "numberHeld": "2120"
+        },
+        {
+          "beneficiallyOwned": false,
+          "classCode": "ORD",
+          "detailsType": "Current",
+          "documentNumber": "7EAC07524",
+          "documentNumberQualifier": null,
+          "fullyPaid": true,
+          "members": [
+            {
+              "memberOrganisationNumber": "082119855",
+              "organisationNumberHeading": "Australian Company Number",
+              "memberName": "AMANWANA PTY. LIMITED",
+              "address2": null,
+              "careOf": null,
+              "city": "DURAL",
+              "country": null,
+              "familyName": null,
+              "givenName1": null,
+              "givenName2": null,
+              "jointHolding": false,
+              "postcode": "2158",
+              "state": "NSW",
+              "street": "13 YURUGA ROAD",
+              "australianBusinessNumber": null
+            }
+          ],
+          "numberHeld": "10450"
+        },
+        {
+          "beneficiallyOwned": false,
+          "classCode": "ORD",
+          "detailsType": "Current",
+          "documentNumber": "7EBE48058",
+          "documentNumberQualifier": null,
+          "fullyPaid": true,
+          "members": [
+            {
+              "memberOrganisationNumber": "166082935",
+              "organisationNumberHeading": "Australian Company Number",
+              "memberName": "DCJ PTY LTD",
+              "address2": "LEVEL 1",
+              "careOf": null,
+              "city": "PERTH",
+              "country": null,
+              "familyName": null,
+              "givenName1": null,
+              "givenName2": null,
+              "jointHolding": false,
+              "postcode": "6000",
+              "state": "WA",
+              "street": "914 HAY STREET",
+              "australianBusinessNumber": null
+            }
+          ],
+          "numberHeld": "12256"
+        },
+        {
+          "beneficiallyOwned": true,
+          "classCode": "ORD",
+          "detailsType": "Current",
+          "documentNumber": "7EBE48058",
+          "documentNumberQualifier": null,
+          "fullyPaid": true,
+          "members": [
+            {
+              "memberOrganisationNumber": "619961634",
+              "organisationNumberHeading": "Australian Company Number",
+              "memberName": "VISTA GROVE INVESTMENTS PTY LTD",
+              "address2": "LEVEL 29",
+              "careOf": null,
+              "city": "MELBOURNE",
+              "country": null,
+              "familyName": null,
+              "givenName1": null,
+              "givenName2": null,
+              "jointHolding": false,
+              "postcode": "3000",
+              "state": "VIC",
+              "street": "525 COLLINS STREET",
+              "australianBusinessNumber": null
+            }
+          ],
+          "numberHeld": "12254"
+        },
+        {
+          "beneficiallyOwned": false,
+          "classCode": "ORD",
+          "detailsType": "Current",
+          "documentNumber": "7EBE48058",
+          "documentNumberQualifier": null,
+          "fullyPaid": true,
+          "members": [
+            {
+              "memberOrganisationNumber": "642719702",
+              "organisationNumberHeading": "Australian Company Number",
+              "memberName": "JM FUTURE HOLDINGS PTY LTD",
+              "address2": null,
+              "careOf": null,
+              "city": "KILLARA",
+              "country": null,
+              "familyName": null,
+              "givenName1": null,
+              "givenName2": null,
+              "jointHolding": false,
+              "postcode": "2071",
+              "state": "NSW",
+              "street": "34 BUCKINGHAM ROAD",
+              "australianBusinessNumber": null
+            }
+          ],
+          "numberHeld": "16507"
+        },
+        {
+          "beneficiallyOwned": false,
+          "classCode": "ORD",
+          "detailsType": "Current",
+          "documentNumber": "7E9526075",
+          "documentNumberQualifier": null,
+          "fullyPaid": true,
+          "members": [
+            {
+              "memberOrganisationNumber": "078544171",
+              "organisationNumberHeading": "Australian Company Number",
+              "memberName": "MRE SERVICES PTY LTD",
+              "address2": null,
+              "careOf": null,
+              "city": "SPRINGFIELD",
+              "country": null,
+              "familyName": null,
+              "givenName1": null,
+              "givenName2": null,
+              "jointHolding": false,
+              "postcode": "5062",
+              "state": "SA",
+              "street": "2 ELMGLADE ROAD",
+              "australianBusinessNumber": null
+            }
+          ],
+          "numberHeld": "13066"
+        }
+      ],
+      "documentList": [],
+      "misc": [],
+      "issuedCapital": [],
+      "companyDetails": []
+    },
+    "paymentPredictor": {
+      "paymentPredictorStats": [],
+      "paymentPredictorHistory": [],
+      "industryPaymentPredictor": {
+        "atbData": {
+          "accountAbnHistory": [],
+          "othersAbnHistory": {
+            "tradeHistory": [],
+            "getSingleHighestCreditExtended": 0
+          }
+        },
+        "paymentPredictorPurchased": true,
+        "paymentPredictorNoEnoughData": false,
+        "othersAbnHistory": {
+          "tradeHistory": [],
+          "getSingleHighestCreditExtended": 0
+        },
+        "tableOfStats": {
+          "averageBalance": 76140.093582701,
+          "averageOverdue": 40604.839839531,
+          "highestCreditExposureSingleSupplier": 0,
+          "highestCreditExposureCombinedSuppliers": 0,
+          "highestOverdueCreditExposure": 0,
+          "numberOfTradeLines": 24
+        },
+        "overdueDays": [10, 6, 6, 7, 7, 7, 7, 7, 7, 9, 6, 6],
+        "averageOverdue": [
+          {
+            "name": "Average Days Overdue",
+            "data": ["6", "6", "9", "7", "7", "7", "7", "7", "7", "6", "6", "10"],
+            "color": "#53ad58"
+          }
+        ],
+        "noGoodData": false,
+        "displayStateAlert": false
+      }
+    },
+    "paymentRating": {
+      "currentPaymentRating": {
+        "asOfDate": "2022-12-22",
+        "daysOverdue": 9.09,
+        "rating": "C",
+        "stats": {
+          "averageBalance": 76140.093582701,
+          "averageOverdue": 40604.839839531,
+          "numberOfTradelines": 24,
+          "highestCreditExposureSingleSupplier": 0,
+          "highestCreditExposureCombinedSupplier": 0,
+          "highestCreditExposureOverdue": 0
+        }
+      },
+      "paymentRatingHistory": [
+        {
+          "asOfDate": "2022-12-15",
+          "daysOverdue": 9.09,
+          "rating": "C",
+          "stats": {
+            "averageBalance": 76140.093582701,
+            "averageOverdue": 40604.839839531,
+            "numberOfTradelines": 24,
+            "highestCreditExposureSingleSupplier": 0,
+            "highestCreditExposureCombinedSupplier": 0,
+            "highestCreditExposureOverdue": 0
+          }
+        },
+        {
+          "asOfDate": "2022-11-15",
+          "daysOverdue": 5.94,
+          "rating": "B",
+          "stats": {
+            "averageBalance": 19238.276409585,
+            "averageOverdue": 8764.9270522257,
+            "numberOfTradelines": 12,
+            "highestCreditExposureSingleSupplier": 0,
+            "highestCreditExposureCombinedSupplier": 0,
+            "highestCreditExposureOverdue": 0
+          }
+        },
+        {
+          "asOfDate": "2022-10-15",
+          "daysOverdue": 5.99,
+          "rating": "B",
+          "stats": {
+            "averageBalance": 19207.380795774,
+            "averageOverdue": 8847.47168563,
+            "numberOfTradelines": 12,
+            "highestCreditExposureSingleSupplier": 0,
+            "highestCreditExposureCombinedSupplier": 0,
+            "highestCreditExposureOverdue": 0
+          }
+        },
+        {
+          "asOfDate": "2022-09-15",
+          "daysOverdue": 6.13,
+          "rating": "B",
+          "stats": {
+            "averageBalance": 19746.969418537,
+            "averageOverdue": 9541.0273038202,
+            "numberOfTradelines": 12,
+            "highestCreditExposureSingleSupplier": 0,
+            "highestCreditExposureCombinedSupplier": 0,
+            "highestCreditExposureOverdue": 0
+          }
+        },
+        {
+          "asOfDate": "2022-08-15",
+          "daysOverdue": 6.09,
+          "rating": "B",
+          "stats": {
+            "averageBalance": 16410.34356508,
+            "averageOverdue": 7199.373687121,
+            "numberOfTradelines": 12,
+            "highestCreditExposureSingleSupplier": 0,
+            "highestCreditExposureCombinedSupplier": 0,
+            "highestCreditExposureOverdue": 0
+          }
+        },
+        {
+          "asOfDate": "2022-07-15",
+          "daysOverdue": 6.04,
+          "rating": "B",
+          "stats": {
+            "averageBalance": 18023.674546249,
+            "averageOverdue": 8210.2111931873,
+            "numberOfTradelines": 12,
+            "highestCreditExposureSingleSupplier": 0,
+            "highestCreditExposureCombinedSupplier": 0,
+            "highestCreditExposureOverdue": 0
+          }
+        },
+        {
+          "asOfDate": "2022-06-15",
+          "daysOverdue": 6.09,
+          "rating": "B",
+          "stats": {
+            "averageBalance": 17902.223719505,
+            "averageOverdue": 8286.1164296465,
+            "numberOfTradelines": 12,
+            "highestCreditExposureSingleSupplier": 0,
+            "highestCreditExposureCombinedSupplier": 0,
+            "highestCreditExposureOverdue": 0
+          }
+        },
+        {
+          "asOfDate": "2022-05-15",
+          "daysOverdue": 6.16,
+          "rating": "B",
+          "stats": {
+            "averageBalance": 17988.574699615,
+            "averageOverdue": 8234.0056231026,
+            "numberOfTradelines": 12,
+            "highestCreditExposureSingleSupplier": 0,
+            "highestCreditExposureCombinedSupplier": 0,
+            "highestCreditExposureOverdue": 0
+          }
+        },
+        {
+          "asOfDate": "2022-04-15",
+          "daysOverdue": 6.26,
+          "rating": "B",
+          "stats": {
+            "averageBalance": 17481.500834023,
+            "averageOverdue": 8155.307277235,
+            "numberOfTradelines": 12,
+            "highestCreditExposureSingleSupplier": 0,
+            "highestCreditExposureCombinedSupplier": 0,
+            "highestCreditExposureOverdue": 0
+          }
+        },
+        {
+          "asOfDate": "2022-03-15",
+          "daysOverdue": 8.19,
+          "rating": "C",
+          "stats": {
+            "averageBalance": 14941.087671273,
+            "averageOverdue": 6891.8646821784,
+            "numberOfTradelines": 10,
+            "highestCreditExposureSingleSupplier": 0,
+            "highestCreditExposureCombinedSupplier": 0,
+            "highestCreditExposureOverdue": 0
+          }
+        },
+        {
+          "asOfDate": "2022-02-15",
+          "daysOverdue": 5.53,
+          "rating": "B",
+          "stats": {
+            "averageBalance": 15427.497959697,
+            "averageOverdue": 7217.445180145,
+            "numberOfTradelines": 10,
+            "highestCreditExposureSingleSupplier": 0,
+            "highestCreditExposureCombinedSupplier": 0,
+            "highestCreditExposureOverdue": 0
+          }
+        },
+        {
+          "asOfDate": "2022-01-15",
+          "daysOverdue": 5.56,
+          "rating": "B",
+          "stats": {
+            "averageBalance": 15805.149743983,
+            "averageOverdue": 7336.5031355934,
+            "numberOfTradelines": 10,
+            "highestCreditExposureSingleSupplier": 0,
+            "highestCreditExposureCombinedSupplier": 0,
+            "highestCreditExposureOverdue": 0
+          }
+        }
+      ]
+    },
+    "industryPaymentRating": {
+      "currentPaymentRating": {
+        "asOfDate": "2022-12-22",
+        "daysOverdue": 9.09,
+        "rating": "C",
+        "stats": {
+          "averageBalance": 76140.093582701,
+          "averageOverdue": 40604.839839531,
+          "numberOfTradelines": 24,
+          "highestCreditExposureSingleSupplier": 0,
+          "highestCreditExposureCombinedSupplier": 0,
+          "highestCreditExposureOverdue": 0
+        }
+      },
+      "paymentRatingHistory": [
+        {
+          "asOfDate": "2022-12-15",
+          "daysOverdue": 9.09,
+          "rating": "C",
+          "stats": {
+            "averageBalance": 76140.093582701,
+            "averageOverdue": 40604.839839531,
+            "numberOfTradelines": 24,
+            "highestCreditExposureSingleSupplier": 0,
+            "highestCreditExposureCombinedSupplier": 0,
+            "highestCreditExposureOverdue": 0
+          }
+        },
+        {
+          "asOfDate": "2022-11-15",
+          "daysOverdue": 5.94,
+          "rating": "B",
+          "stats": {
+            "averageBalance": 19238.276409585,
+            "averageOverdue": 8764.9270522257,
+            "numberOfTradelines": 12,
+            "highestCreditExposureSingleSupplier": 0,
+            "highestCreditExposureCombinedSupplier": 0,
+            "highestCreditExposureOverdue": 0
+          }
+        },
+        {
+          "asOfDate": "2022-10-15",
+          "daysOverdue": 5.99,
+          "rating": "B",
+          "stats": {
+            "averageBalance": 19207.380795774,
+            "averageOverdue": 8847.47168563,
+            "numberOfTradelines": 12,
+            "highestCreditExposureSingleSupplier": 0,
+            "highestCreditExposureCombinedSupplier": 0,
+            "highestCreditExposureOverdue": 0
+          }
+        },
+        {
+          "asOfDate": "2022-09-15",
+          "daysOverdue": 6.13,
+          "rating": "B",
+          "stats": {
+            "averageBalance": 19746.969418537,
+            "averageOverdue": 9541.0273038202,
+            "numberOfTradelines": 12,
+            "highestCreditExposureSingleSupplier": 0,
+            "highestCreditExposureCombinedSupplier": 0,
+            "highestCreditExposureOverdue": 0
+          }
+        },
+        {
+          "asOfDate": "2022-08-15",
+          "daysOverdue": 6.09,
+          "rating": "B",
+          "stats": {
+            "averageBalance": 16410.34356508,
+            "averageOverdue": 7199.373687121,
+            "numberOfTradelines": 12,
+            "highestCreditExposureSingleSupplier": 0,
+            "highestCreditExposureCombinedSupplier": 0,
+            "highestCreditExposureOverdue": 0
+          }
+        },
+        {
+          "asOfDate": "2022-07-15",
+          "daysOverdue": 6.04,
+          "rating": "B",
+          "stats": {
+            "averageBalance": 18023.674546249,
+            "averageOverdue": 8210.2111931873,
+            "numberOfTradelines": 12,
+            "highestCreditExposureSingleSupplier": 0,
+            "highestCreditExposureCombinedSupplier": 0,
+            "highestCreditExposureOverdue": 0
+          }
+        },
+        {
+          "asOfDate": "2022-06-15",
+          "daysOverdue": 6.09,
+          "rating": "B",
+          "stats": {
+            "averageBalance": 17902.223719505,
+            "averageOverdue": 8286.1164296465,
+            "numberOfTradelines": 12,
+            "highestCreditExposureSingleSupplier": 0,
+            "highestCreditExposureCombinedSupplier": 0,
+            "highestCreditExposureOverdue": 0
+          }
+        },
+        {
+          "asOfDate": "2022-05-15",
+          "daysOverdue": 6.16,
+          "rating": "B",
+          "stats": {
+            "averageBalance": 17988.574699615,
+            "averageOverdue": 8234.0056231026,
+            "numberOfTradelines": 12,
+            "highestCreditExposureSingleSupplier": 0,
+            "highestCreditExposureCombinedSupplier": 0,
+            "highestCreditExposureOverdue": 0
+          }
+        },
+        {
+          "asOfDate": "2022-04-15",
+          "daysOverdue": 6.26,
+          "rating": "B",
+          "stats": {
+            "averageBalance": 17481.500834023,
+            "averageOverdue": 8155.307277235,
+            "numberOfTradelines": 12,
+            "highestCreditExposureSingleSupplier": 0,
+            "highestCreditExposureCombinedSupplier": 0,
+            "highestCreditExposureOverdue": 0
+          }
+        },
+        {
+          "asOfDate": "2022-03-15",
+          "daysOverdue": 8.19,
+          "rating": "C",
+          "stats": {
+            "averageBalance": 14941.087671273,
+            "averageOverdue": 6891.8646821784,
+            "numberOfTradelines": 10,
+            "highestCreditExposureSingleSupplier": 0,
+            "highestCreditExposureCombinedSupplier": 0,
+            "highestCreditExposureOverdue": 0
+          }
+        },
+        {
+          "asOfDate": "2022-02-15",
+          "daysOverdue": 5.53,
+          "rating": "B",
+          "stats": {
+            "averageBalance": 15427.497959697,
+            "averageOverdue": 7217.445180145,
+            "numberOfTradelines": 10,
+            "highestCreditExposureSingleSupplier": 0,
+            "highestCreditExposureCombinedSupplier": 0,
+            "highestCreditExposureOverdue": 0
+          }
+        },
+        {
+          "asOfDate": "2022-01-15",
+          "daysOverdue": 5.56,
+          "rating": "B",
+          "stats": {
+            "averageBalance": 15805.149743983,
+            "averageOverdue": 7336.5031355934,
+            "numberOfTradelines": 10,
+            "highestCreditExposureSingleSupplier": 0,
+            "highestCreditExposureCombinedSupplier": 0,
+            "highestCreditExposureOverdue": 0
+          }
+        }
+      ]
+    },
+    "currentDirectors": [
+      {
+        "documentNumber": "7E6642307",
+        "detailsType": "Current",
+        "roleType": "Director",
+        "appointmentDate": "27-10-2006",
+        "familyName": "ECKERSLEY-MASLIN",
+        "givenName1": "SEBASTIEN",
+        "officerBirthDate": "03-05-1982",
+        "birthState": "TAS",
+        "street": "50 PARKHAM STREET",
+        "city": "SURRY HILLS",
+        "state": "NSW",
+        "postcode": "2010",
+        "acns": [
+          "141425532",
+          "161570145",
+          "154173154",
+          "158416490",
+          "161235258",
+          "161328678",
+          "162877867",
+          "164998734",
+          "166066379",
+          "604611556",
+          "605045654",
+          "616378600",
+          "642308030"
+        ],
+        "currentDirectorships": [
+          {
+            "company": {
+              "name": "CALEADRA PTY LTD",
+              "acn": "141425532",
+              "abn": null,
+              "type": "APTY",
+              "class": "LMSH",
+              "subClass": "PROP",
+              "status": "REGD",
+              "registeredDate": "11-01-2010"
+            },
+            "isHighRisk": true,
+            "acn": "141425532"
+          },
+          {
+            "company": {
+              "name": "DIGITALSORBET PTY LTD",
+              "acn": "161570145",
+              "abn": "26161570145",
+              "type": "APTY",
+              "class": "LMSH",
+              "subClass": "PROP",
+              "status": "DRGD",
+              "registeredDate": "07-12-2012"
+            },
+            "isHighRisk": true,
+            "acn": "161570145"
+          },
+          {
+            "company": {
+              "name": "BLUECHILLI CAPITAL PTY LTD",
+              "acn": "154173154",
+              "abn": null,
+              "type": "APTY",
+              "class": "LMSH",
+              "subClass": "PROP",
+              "status": "REGD",
+              "registeredDate": "09-11-2011"
+            },
+            "isHighRisk": false,
+            "acn": "154173154"
+          },
+          {
+            "company": {
+              "name": "TOKEN ONE PTY LTD",
+              "acn": "161235258",
+              "abn": "32161235258",
+              "type": "APTY",
+              "class": "LMSH",
+              "subClass": "PROP",
+              "status": "REGD",
+              "registeredDate": "14-11-2012"
+            },
+            "isHighRisk": false,
+            "acn": "161235258"
+          },
+          {
+            "company": {
+              "name": "BLUECHILLI CAPITAL INTERNATIONAL PTY LTD",
+              "acn": "616378600",
+              "abn": null,
+              "type": "APTY",
+              "class": "LMSH",
+              "subClass": "PROP",
+              "status": "REGD",
+              "registeredDate": "09-12-2016"
+            },
+            "isHighRisk": false,
+            "acn": "616378600"
+          },
+          {
+            "company": {
+              "name": "PHYLLOME PTY LTD",
+              "acn": "642308030",
+              "abn": "43642308030",
+              "type": "APTY",
+              "class": "LMSH",
+              "subClass": "PROP",
+              "status": "REGD",
+              "registeredDate": "02-07-2020"
+            },
+            "isHighRisk": false,
+            "acn": "642308030"
+          }
+        ],
+        "givenName2": null,
+        "birthLocality": "HOBART",
+        "formerDirectorships": [
+          {
+            "company": {
+              "name": "GIGGEDIN PTY LTD",
+              "acn": "158416490",
+              "abn": "33158416490",
+              "type": "APTY",
+              "class": "LMSH",
+              "subClass": "PROP",
+              "status": "EXAD",
+              "registeredDate": "17-05-2012"
+            },
+            "isHighRisk": false,
+            "acn": "158416490"
+          },
+          {
+            "company": {
+              "name": "HOUSL PTY LTD",
+              "acn": "161328678",
+              "abn": "79161328678",
+              "type": "APTY",
+              "class": "LMSH",
+              "subClass": "PROP",
+              "status": "DRGD",
+              "registeredDate": "21-11-2012"
+            },
+            "isHighRisk": false,
+            "acn": "161328678"
+          },
+          {
+            "company": {
+              "name": "DIVVY PARKING PTY LTD",
+              "acn": "162877867",
+              "abn": "80162877867",
+              "type": "APTY",
+              "class": "LMSH",
+              "subClass": "PROP",
+              "status": "REGD",
+              "registeredDate": "17-03-2013"
+            },
+            "isHighRisk": false,
+            "acn": "162877867"
+          },
+          {
+            "company": {
+              "name": "LIQUORUN PTY LTD",
+              "acn": "164998734",
+              "abn": "56164998734",
+              "type": "APTY",
+              "class": "LMSH",
+              "subClass": "PROP",
+              "status": "REGD",
+              "registeredDate": "25-07-2013"
+            },
+            "isHighRisk": false,
+            "acn": "164998734"
+          },
+          {
+            "company": {
+              "name": "DISTRIBUTED LOGISTICS PTY. LTD.",
+              "acn": "166066379",
+              "abn": "79166066379",
+              "type": "APTY",
+              "class": "LMSH",
+              "subClass": "PROP",
+              "status": "REGD",
+              "registeredDate": "01-10-2013"
+            },
+            "isHighRisk": false,
+            "acn": "166066379"
+          },
+          {
+            "company": {
+              "name": "GETSWIFT LIMITED",
+              "acn": "604611556",
+              "abn": "57604611556",
+              "type": "APUB",
+              "class": "LMSH",
+              "subClass": "ULST",
+              "status": "EXAD",
+              "registeredDate": "06-03-2015"
+            },
+            "isHighRisk": false,
+            "acn": "604611556"
+          },
+          {
+            "company": {
+              "name": "GET SWIFT LOGISTICS PTY LTD",
+              "acn": "605045654",
+              "abn": "42605045654",
+              "type": "APTY",
+              "class": "LMSH",
+              "subClass": "PROP",
+              "status": "EXAD",
+              "registeredDate": "30-03-2015"
+            },
+            "isHighRisk": false,
+            "acn": "605045654"
+          }
+        ],
+        "officerName": null,
+        "officerOrganisationNumber": null,
+        "givenName3": null,
+        "organisationNumberHeading": null,
+        "address2": null,
+        "australianBusinessNumber": null
+      },
+      {
+        "documentNumber": "7E9521476",
+        "detailsType": "Current",
+        "roleType": "Secretary",
+        "appointmentDate": "06-10-2017",
+        "familyName": "POIER",
+        "givenName1": "LUTHER",
+        "officerBirthDate": "03-02-1962",
+        "birthState": "CANADA",
+        "street": "26 COLLINS ROAD",
+        "city": "ST IVES",
+        "state": "NSW",
+        "postcode": "2075",
+        "acns": [
+          "091301487",
+          "105980238",
+          "010780631",
+          "078597645",
+          "088261349",
+          "105003923",
+          "106424088",
+          "125412393",
+          "154173154",
+          "159605259",
+          "002024839"
+        ],
+        "currentDirectorships": [
+          {
+            "company": {
+              "name": "LAKEWELL MANAGEMENT PTY LTD",
+              "acn": "091301487",
+              "abn": "34091301487",
+              "type": "APTY",
+              "class": "LMSH",
+              "subClass": "PROP",
+              "status": "DRGD",
+              "registeredDate": "21-01-2000"
+            },
+            "isHighRisk": true,
+            "acn": "091301487"
+          },
+          {
+            "company": {
+              "name": "LAKEWELL PTY LTD",
+              "acn": "105980238",
+              "abn": null,
+              "type": "APTY",
+              "class": "LMSH",
+              "subClass": "PROP",
+              "status": "DRGD",
+              "registeredDate": "20-08-2003"
+            },
+            "isHighRisk": true,
+            "acn": "105980238"
+          },
+          {
+            "company": {
+              "name": "REDEMPTION CAPITAL PTY LTD",
+              "acn": "125412393",
+              "abn": "79125412393",
+              "type": "APTY",
+              "class": "LMSH",
+              "subClass": "PROP",
+              "status": "REGD",
+              "registeredDate": "15-05-2007"
+            },
+            "isHighRisk": false,
+            "acn": "125412393"
+          },
+          {
+            "company": {
+              "name": "BLUECHILLI CAPITAL PTY LTD",
+              "acn": "154173154",
+              "abn": null,
+              "type": "APTY",
+              "class": "LMSH",
+              "subClass": "PROP",
+              "status": "REGD",
+              "registeredDate": "09-11-2011"
+            },
+            "isHighRisk": false,
+            "acn": "154173154"
+          },
+          {
+            "company": {
+              "name": "LYSIANTHUS PTY LTD",
+              "acn": "159605259",
+              "abn": null,
+              "type": "APTY",
+              "class": "LMSH",
+              "subClass": "PSTC",
+              "status": "REGD",
+              "registeredDate": "23-07-2012"
+            },
+            "isHighRisk": false,
+            "acn": "159605259"
+          }
+        ],
+        "givenName2": null,
+        "birthLocality": "LONDON",
+        "formerDirectorships": [
+          {
+            "company": {
+              "name": "VANWELL PTY. LTD.",
+              "acn": "010780631",
+              "abn": null,
+              "type": "APTY",
+              "class": "LMSH",
+              "subClass": "PROP",
+              "status": "DRGD",
+              "registeredDate": "12-01-1988"
+            },
+            "isHighRisk": false,
+            "acn": "010780631"
+          },
+          {
+            "company": {
+              "name": "LAKERANGE PTY LTD",
+              "acn": "078597645",
+              "abn": "54078597645",
+              "type": "APTY",
+              "class": "LMSH",
+              "subClass": "PROP",
+              "status": "DRGD",
+              "registeredDate": "20-05-1997"
+            },
+            "isHighRisk": false,
+            "acn": "078597645"
+          },
+          {
+            "company": {
+              "name": "CERTANE SPV MANAGEMENT PTY LTD",
+              "acn": "088261349",
+              "abn": "67088261349",
+              "type": "APTY",
+              "class": "LMSH",
+              "subClass": "PROP",
+              "status": "REGD",
+              "registeredDate": "25-06-1999"
+            },
+            "isHighRisk": false,
+            "acn": "088261349"
+          },
+          {
+            "company": {
+              "name": "UNIVERSAL LOVE RETREAT PTY LTD",
+              "acn": "105003923",
+              "abn": "63105003923",
+              "type": "APTY",
+              "class": "LMSH",
+              "subClass": "PROP",
+              "status": "DRGD",
+              "registeredDate": "05-06-2003"
+            },
+            "isHighRisk": false,
+            "acn": "105003923"
+          },
+          {
+            "company": {
+              "name": "CERTANE CT PTY LTD",
+              "acn": "106424088",
+              "abn": "12106424088",
+              "type": "APTY",
+              "class": "LMSH",
+              "subClass": "PROP",
+              "status": "REGD",
+              "registeredDate": "23-09-2003"
+            },
+            "isHighRisk": false,
+            "acn": "106424088"
+          },
+          {
+            "company": {
+              "name": "NORTHERN BEACHES CHRISTIAN SCHOOL",
+              "acn": "002024839",
+              "abn": "25002024839",
+              "type": "APUB",
+              "class": "LMGT",
+              "subClass": "LISN",
+              "status": "REGD",
+              "registeredDate": "30-12-1981"
+            },
+            "isHighRisk": false,
+            "acn": "002024839"
+          }
+        ],
+        "officerName": null,
+        "officerOrganisationNumber": null,
+        "givenName3": null,
+        "organisationNumberHeading": null,
+        "address2": null,
+        "australianBusinessNumber": null
+      }
+    ],
+    "companyDetails": [],
+    "creditScore": {
+      "currentCreditScore": 565,
+      "creditScoreHistory": [
+        {
+          "date": "22-12-2022",
+          "score": 565
+        },
+        {
+          "date": "15-12-2022",
+          "score": 549
+        },
+        {
+          "date": "15-11-2022",
+          "score": 549
+        },
+        {
+          "date": "15-10-2022",
+          "score": 549
+        },
+        {
+          "date": "15-09-2022",
+          "score": 543
+        },
+        {
+          "date": "15-08-2022",
+          "score": 549
+        },
+        {
+          "date": "15-07-2022",
+          "score": 543
+        },
+        {
+          "date": "15-06-2022",
+          "score": 539
+        },
+        {
+          "date": "15-05-2022",
+          "score": 539
+        },
+        {
+          "date": "15-04-2022",
+          "score": 491
+        },
+        {
+          "date": "15-03-2022",
+          "score": 491
+        },
+        {
+          "date": "15-02-2022",
+          "score": 487
+        },
+        {
+          "date": "15-01-2022",
+          "score": 497
+        }
+      ]
+    },
+    "creditRating": {
+      "currentCreditRating": "C2",
+      "creditRatingHistory": [
+        {
+          "date": "22-12-2022",
+          "rating": "C2"
+        },
+        {
+          "date": "15-12-2022",
+          "rating": "C2"
+        },
+        {
+          "date": "15-11-2022",
+          "rating": "C2"
+        },
+        {
+          "date": "15-10-2022",
+          "rating": "C2"
+        },
+        {
+          "date": "15-09-2022",
+          "rating": "C3"
+        },
+        {
+          "date": "15-08-2022",
+          "rating": "C2"
+        },
+        {
+          "date": "15-07-2022",
+          "rating": "C3"
+        },
+        {
+          "date": "15-06-2022",
+          "rating": "C3"
+        },
+        {
+          "date": "15-05-2022",
+          "rating": "C3"
+        },
+        {
+          "date": "15-04-2022",
+          "rating": "E"
+        },
+        {
+          "date": "15-03-2022",
+          "rating": "E"
+        },
+        {
+          "date": "15-02-2022",
+          "rating": "E"
+        },
+        {
+          "date": "15-01-2022",
+          "rating": "E"
+        }
+      ]
+    },
+    "pdfRequestId": "010f4f56-8193-11ed-b216-0242ac11000d",
+    "abrData": {
+      "name": "Blue Chilli Technology Pty Ltd",
+      "abn": "50122406731",
+      "acn": "122406731",
+      "registeredDate": "11-01-2010",
+      "status": "Active",
+      "type": "PRV",
+      "typeCode": "PRV",
+      "updatedDate": "03-02-2021",
+      "description": "Australian Private Company",
+      "lastUpdated": "03-02-2021",
+      "statusEffectiveFrom": null,
+      "gst": [
+        {
+          "effectiveTo": null,
+          "effectiveFrom": "29-06-2010"
+        }
+      ],
+      "addresses": [
+        {
+          "effectiveTo": null,
+          "effectiveFrom": "17-12-2019",
+          "postcode": "2000",
+          "stateCode": "NSW"
+        },
+        {
+          "effectiveTo": "17-12-2019",
+          "effectiveFrom": "25-08-2015",
+          "postcode": "2000",
+          "stateCode": "NSW"
+        },
+        {
+          "effectiveTo": "25-08-2015",
+          "effectiveFrom": "17-09-2014",
+          "postcode": "2000",
+          "stateCode": "NSW"
+        },
+        {
+          "effectiveTo": "17-09-2014",
+          "effectiveFrom": "20-06-2012",
+          "postcode": "2000",
+          "stateCode": "NSW"
+        },
+        {
+          "effectiveTo": "20-06-2012",
+          "effectiveFrom": "02-09-2011",
+          "postcode": "2067",
+          "stateCode": "NSW"
+        },
+        {
+          "effectiveTo": "02-09-2011",
+          "effectiveFrom": "11-03-2010",
+          "postcode": "2067",
+          "stateCode": "NSW"
+        },
+        {
+          "effectiveTo": "11-03-2010",
+          "effectiveFrom": "11-01-2010",
+          "postcode": "2067",
+          "stateCode": "NSW"
+        }
+      ],
+      "businessNames": [
+        {
+          "effectiveFrom": "11-01-2010",
+          "name": "Blue Chilli Technology Pty Ltd",
+          "type": "Main Name"
+        },
+        {
+          "effectiveFrom": "11-03-2010",
+          "name": "AUTOCARLOG",
+          "type": "Main Trading Name"
+        },
+        {
+          "effectiveFrom": "27-09-2010",
+          "name": "ONEFORONE GROUP",
+          "type": "Business Name"
+        },
+        {
+          "effectiveFrom": "21-01-2010",
+          "name": "AUTOCARLOG.COM",
+          "type": "Business Name"
+        }
+      ],
+      "charityTypes": [],
+      "charityEndorsements": [],
+      "dgrEndorsements": [],
+      "historicalChanges": [
+        {
+          "entityStatus": [],
+          "goodsAndServicesTax": [],
+          "mainName": [],
+          "businessName": ["The Business Name ONEFORONE GROUP was removed"],
+          "mainBusinessPhysicalAddress": [],
+          "mainTradingName": [],
+          "date": "03-02-2021"
+        },
+        {
+          "entityStatus": [],
+          "goodsAndServicesTax": [],
+          "mainName": [],
+          "businessName": [],
+          "mainBusinessPhysicalAddress": ["The Main Business Physical Address was changed to NSW 2000 from NSW 2000"],
+          "mainTradingName": [],
+          "date": "17-12-2019"
+        },
+        {
+          "entityStatus": [],
+          "goodsAndServicesTax": [],
+          "mainName": [],
+          "businessName": [],
+          "mainBusinessPhysicalAddress": ["The Main Business Physical Address was changed to NSW 2000 from NSW 2000"],
+          "mainTradingName": [],
+          "date": "25-08-2015"
+        },
+        {
+          "entityStatus": [],
+          "goodsAndServicesTax": [],
+          "mainName": [],
+          "businessName": [],
+          "mainBusinessPhysicalAddress": ["The Main Business Physical Address was changed to NSW 2000 from NSW 2000"],
+          "mainTradingName": [],
+          "date": "17-09-2014"
+        },
+        {
+          "entityStatus": [],
+          "goodsAndServicesTax": [],
+          "mainName": [],
+          "businessName": ["The Business Name AUTOCARLOG.COM was removed"],
+          "mainBusinessPhysicalAddress": [],
+          "mainTradingName": [],
+          "date": "30-09-2013"
+        },
+        {
+          "entityStatus": [],
+          "goodsAndServicesTax": [],
+          "mainName": [],
+          "businessName": [],
+          "mainBusinessPhysicalAddress": ["The Main Business Physical Address was changed to NSW 2000 from NSW 2067"],
+          "mainTradingName": [],
+          "date": "20-06-2012"
+        },
+        {
+          "entityStatus": [],
+          "goodsAndServicesTax": [],
+          "mainName": [],
+          "businessName": [],
+          "mainBusinessPhysicalAddress": ["The Main Business Physical Address was changed to NSW 2067 from NSW 2067"],
+          "mainTradingName": [],
+          "date": "02-09-2011"
+        },
+        {
+          "entityStatus": [],
+          "goodsAndServicesTax": [],
+          "mainName": [],
+          "businessName": ["The Business Name ONEFORONE GROUP was added"],
+          "mainBusinessPhysicalAddress": [],
+          "mainTradingName": [],
+          "date": "27-09-2010"
+        },
+        {
+          "entityStatus": [],
+          "goodsAndServicesTax": ["The Goods and Services Tax was changed to Currently registered for GST"],
+          "mainName": [],
+          "businessName": [],
+          "mainBusinessPhysicalAddress": [],
+          "mainTradingName": [],
+          "date": "29-06-2010"
+        },
+        {
+          "entityStatus": [],
+          "goodsAndServicesTax": [],
+          "mainName": [],
+          "businessName": [],
+          "mainBusinessPhysicalAddress": ["The Main Business Physical Address was changed to NSW 2067 from NSW 2067"],
+          "mainTradingName": ["The Main Trading Name was changed to AUTOCARLOG"],
+          "date": "11-03-2010"
+        },
+        {
+          "entityStatus": [],
+          "goodsAndServicesTax": [],
+          "mainName": [],
+          "businessName": ["The Business Name AUTOCARLOG.COM was added"],
+          "mainBusinessPhysicalAddress": [],
+          "mainTradingName": [],
+          "date": "21-01-2010"
+        },
+        {
+          "entityStatus": ["The Entity Status was changed to Active"],
+          "goodsAndServicesTax": [],
+          "mainName": ["The Main Name was changed to Blue Chilli Technology Pty Ltd"],
+          "businessName": [],
+          "mainBusinessPhysicalAddress": ["The Main Business Physical Address was changed to NSW 2067"],
+          "mainTradingName": [],
+          "date": "11-01-2010"
+        }
+      ]
+    },
+    "statusChange": {
+      "abrChanges": [
+        {
+          "entityStatus": "Active (Current status)",
+          "date": "2010-01-11"
+        }
+      ],
+      "asicChanges": [],
+      "gstChanges": [
+        {
+          "entityStatus": "Registered For GST (Current status)",
+          "date": "2010-06-29"
+        }
+      ]
+    },
+    "asicData": {
+      "organisation": {
+        "australianBusinessNumber": "50122406731",
+        "name": "BLUE CHILLI TECHNOLOGY PTY LTD",
+        "number": "122406731",
+        "numberType": "ACN",
+        "type": "Australian Proprietary Company",
+        "status": "Registered",
+        "address": {
+          "countryName": null,
+          "iSO3166CountryCode": null,
+          "line1": null,
+          "line2": null,
+          "line3": null,
+          "locality": null,
+          "postcode": "3000",
+          "state": "VIC",
+          "suburb": "MELBOURNE"
+        },
+        "controllingJurisdictionExpanded": "Australian Securities & Investments Commission",
+        "controllingJurisdiction": "ASIC",
+        "numberHeading": "Australian Company Number",
+        "registrationDate": "27-10-2006",
+        "deregistrationDate": null,
+        "reviewDate": "27-10-2023",
+        "satisfiedChargesIndicator": "Fewer than 10 pages in Satisfied Charges Extract",
+        "class": "Limited By Shares",
+        "subclass": "Proprietary Company",
+        "typeExpanded": "Australian Proprietary Company",
+        "statusExpanded": "Registered",
+        "classExpanded": "Limited By Shares",
+        "subclassExpanded": "Proprietary Company",
+        "formattedNumber": "122 406 731",
+        "acnc": false
+      },
+      "documents": [
+        {
+          "documentQualifier": null,
+          "additionalDescriptions": [
+            {
+              "additionalDescription": "Notification of Dismissal of Application For Winding Up Order",
+              "subFormCode": "519C"
+            }
+          ],
+          "dateProcessed": "18-08-2021",
+          "dateReceived": "13-08-2021",
+          "documentNumber": "031085456",
+          "effectiveDate": "13-08-2021",
+          "formCode": "519",
+          "numberOfPages": "3",
+          "documentUnderRequisition": null
+        },
+        {
+          "documentQualifier": null,
+          "additionalDescriptions": [
+            {
+              "additionalDescription": "Notification of Application to Wind Up Company Under S. 459p, 462 or 464",
+              "subFormCode": "519G"
+            }
+          ],
+          "dateProcessed": "05-07-2021",
+          "dateReceived": "30-06-2021",
+          "documentNumber": "031085235",
+          "effectiveDate": "30-06-2021",
+          "formCode": "519",
+          "numberOfPages": "3",
+          "documentUnderRequisition": null
+        },
+        {
+          "documentQualifier": null,
+          "additionalDescriptions": [
+            {
+              "additionalDescription": "Request For Correction Alters 7E9 526 075",
+              "subFormCode": "492"
+            }
+          ],
+          "dateProcessed": "13-04-2021",
+          "dateReceived": "12-04-2021",
+          "documentNumber": "7EBG40131",
+          "effectiveDate": "12-04-2021",
+          "formCode": "492",
+          "numberOfPages": "2",
+          "documentUnderRequisition": null
+        },
+        {
+          "documentQualifier": null,
+          "additionalDescriptions": [
+            {
+              "additionalDescription": "Change to Company Details",
+              "subFormCode": "484"
+            },
+            {
+              "additionalDescription": "Changes to Share Structure",
+              "subFormCode": "484O"
+            },
+            {
+              "additionalDescription": "Notification of Share Issue",
+              "subFormCode": "484G"
+            },
+            {
+              "additionalDescription": "Changes to (Members) Share Holdings",
+              "subFormCode": "484N"
+            }
+          ],
+          "dateProcessed": "08-02-2021",
+          "dateReceived": "08-02-2021",
+          "documentNumber": "7EBE48058",
+          "effectiveDate": "08-02-2021",
+          "formCode": "484",
+          "numberOfPages": "4",
+          "documentUnderRequisition": null
+        },
+        {
+          "documentQualifier": null,
+          "additionalDescriptions": [
+            {
+              "additionalDescription": "Change to Company Details Change of Registered Address",
+              "subFormCode": "484B"
+            }
+          ],
+          "dateProcessed": "07-01-2021",
+          "dateReceived": "07-01-2021",
+          "documentNumber": "7EBD63525",
+          "effectiveDate": "07-01-2021",
+          "formCode": "484",
+          "numberOfPages": "2",
+          "documentUnderRequisition": null
+        },
+        {
+          "documentQualifier": null,
+          "additionalDescriptions": [
+            {
+              "additionalDescription": "Change to Company Details Appointment or Cessation of A Company Officeholder",
+              "subFormCode": "484E"
+            }
+          ],
+          "dateProcessed": "04-10-2019",
+          "dateReceived": "04-10-2019",
+          "documentNumber": "7EAQ01275",
+          "effectiveDate": "04-10-2019",
+          "formCode": "484",
+          "numberOfPages": "2",
+          "documentUnderRequisition": null
+        },
+        {
+          "documentQualifier": null,
+          "additionalDescriptions": [
+            {
+              "additionalDescription": "Change to Company Details Appointment or Cessation of A Company Officeholder",
+              "subFormCode": "484E"
+            }
+          ],
+          "dateProcessed": "04-10-2019",
+          "dateReceived": "04-10-2019",
+          "documentNumber": "7EAQ01292",
+          "effectiveDate": "04-10-2019",
+          "formCode": "484",
+          "numberOfPages": "2",
+          "documentUnderRequisition": null
+        },
+        {
+          "documentQualifier": null,
+          "additionalDescriptions": [
+            {
+              "additionalDescription": "Change to Company Details",
+              "subFormCode": "484"
+            },
+            {
+              "additionalDescription": "Changes to Share Structure",
+              "subFormCode": "484O"
+            },
+            {
+              "additionalDescription": "Notification of Share Issue",
+              "subFormCode": "484G"
+            },
+            {
+              "additionalDescription": "Changes to (Members) Share Holdings",
+              "subFormCode": "484N"
+            }
+          ],
+          "dateProcessed": "12-07-2018",
+          "dateReceived": "12-07-2018",
+          "documentNumber": "7EAC07524",
+          "effectiveDate": "12-07-2018",
+          "formCode": "484",
+          "numberOfPages": "3",
+          "documentUnderRequisition": null
+        },
+        {
+          "documentQualifier": null,
+          "additionalDescriptions": [
+            {
+              "additionalDescription": "Change to Company Details Change Member Name or Address",
+              "subFormCode": "484A2"
+            }
+          ],
+          "dateProcessed": "08-03-2018",
+          "dateReceived": "08-03-2018",
+          "documentNumber": "6E4398623",
+          "effectiveDate": "08-03-2018",
+          "formCode": "484",
+          "numberOfPages": "2",
+          "documentUnderRequisition": null
+        },
+        {
+          "documentQualifier": null,
+          "additionalDescriptions": [
+            {
+              "additionalDescription": "Change to Company Details",
+              "subFormCode": "484"
+            },
+            {
+              "additionalDescription": "Changes to Share Structure",
+              "subFormCode": "484O"
+            },
+            {
+              "additionalDescription": "Notification of Share Issue",
+              "subFormCode": "484G"
+            },
+            {
+              "additionalDescription": "Changes to (Members) Share Holdings",
+              "subFormCode": "484N"
+            }
+          ],
+          "dateProcessed": "10-10-2017",
+          "dateReceived": "10-10-2017",
+          "documentNumber": "7E9526075",
+          "effectiveDate": "10-10-2017",
+          "formCode": "484",
+          "numberOfPages": "4",
+          "documentUnderRequisition": null
+        },
+        {
+          "documentQualifier": null,
+          "additionalDescriptions": [
+            {
+              "additionalDescription": "Change to Company Details Appointment or Cessation of A Company Officeholder",
+              "subFormCode": "484E"
+            }
+          ],
+          "dateProcessed": "09-10-2017",
+          "dateReceived": "09-10-2017",
+          "documentNumber": "7E9521476",
+          "effectiveDate": "09-10-2017",
+          "formCode": "484",
+          "numberOfPages": "2",
+          "documentUnderRequisition": null
+        },
+        {
+          "documentQualifier": null,
+          "additionalDescriptions": [
+            {
+              "additionalDescription": "Change to Company Details Appointment or Cessation of A Company Officeholder",
+              "subFormCode": "484E"
+            }
+          ],
+          "dateProcessed": "28-10-2016",
+          "dateReceived": "28-10-2016",
+          "documentNumber": "7E8476603",
+          "effectiveDate": "28-10-2016",
+          "formCode": "484",
+          "numberOfPages": "2",
+          "documentUnderRequisition": null
+        },
+        {
+          "documentQualifier": null,
+          "additionalDescriptions": [
+            {
+              "additionalDescription": "Change to Company Details",
+              "subFormCode": "484"
+            },
+            {
+              "additionalDescription": "Changes to Share Structure",
+              "subFormCode": "484O"
+            },
+            {
+              "additionalDescription": "Notification of Share Issue",
+              "subFormCode": "484G"
+            },
+            {
+              "additionalDescription": "Changes to (Members) Share Holdings",
+              "subFormCode": "484N"
+            }
+          ],
+          "dateProcessed": "29-09-2016",
+          "dateReceived": "29-09-2016",
+          "documentNumber": "7E8392446",
+          "effectiveDate": "29-09-2016",
+          "formCode": "484",
+          "numberOfPages": "2",
+          "documentUnderRequisition": null
+        },
+        {
+          "documentQualifier": null,
+          "additionalDescriptions": [
+            {
+              "additionalDescription": "Change to Company Details",
+              "subFormCode": "484"
+            },
+            {
+              "additionalDescription": "Changes to Share Structure",
+              "subFormCode": "484O"
+            },
+            {
+              "additionalDescription": "Notification of Share Issue",
+              "subFormCode": "484G"
+            },
+            {
+              "additionalDescription": "Changes to (Members) Share Holdings",
+              "subFormCode": "484N"
+            }
+          ],
+          "dateProcessed": "18-07-2016",
+          "dateReceived": "18-07-2016",
+          "documentNumber": "7E8164891",
+          "effectiveDate": "18-07-2016",
+          "formCode": "484",
+          "numberOfPages": "2",
+          "documentUnderRequisition": null
+        },
+        {
+          "documentQualifier": null,
+          "additionalDescriptions": [
+            {
+              "additionalDescription": "Change to Company Details",
+              "subFormCode": "484"
+            },
+            {
+              "additionalDescription": "Changes to Share Structure",
+              "subFormCode": "484O"
+            },
+            {
+              "additionalDescription": "Notification of Share Issue",
+              "subFormCode": "484G"
+            },
+            {
+              "additionalDescription": "Changes to (Members) Share Holdings",
+              "subFormCode": "484N"
+            }
+          ],
+          "dateProcessed": "22-06-2016",
+          "dateReceived": "22-06-2016",
+          "documentNumber": "7E8076896",
+          "effectiveDate": "22-06-2016",
+          "formCode": "484",
+          "numberOfPages": "2",
+          "documentUnderRequisition": null
+        },
+        {
+          "documentQualifier": null,
+          "additionalDescriptions": [
+            {
+              "additionalDescription": "Change to Company Details",
+              "subFormCode": "484"
+            },
+            {
+              "additionalDescription": "Changes to Share Structure",
+              "subFormCode": "484O"
+            },
+            {
+              "additionalDescription": "Notification of Share Issue",
+              "subFormCode": "484G"
+            },
+            {
+              "additionalDescription": "Changes to (Members) Share Holdings",
+              "subFormCode": "484N"
+            }
+          ],
+          "dateProcessed": "22-06-2016",
+          "dateReceived": "22-06-2016",
+          "documentNumber": "7E8075719",
+          "effectiveDate": "22-06-2016",
+          "formCode": "484",
+          "numberOfPages": "2",
+          "documentUnderRequisition": null
+        },
+        {
+          "documentQualifier": null,
+          "additionalDescriptions": [
+            {
+              "additionalDescription": "Change to Company Details",
+              "subFormCode": "484"
+            },
+            {
+              "additionalDescription": "Changes to Share Structure",
+              "subFormCode": "484O"
+            },
+            {
+              "additionalDescription": "Notification of Share Issue",
+              "subFormCode": "484G"
+            },
+            {
+              "additionalDescription": "Changes to (Members) Share Holdings",
+              "subFormCode": "484N"
+            }
+          ],
+          "dateProcessed": "08-06-2016",
+          "dateReceived": "08-06-2016",
+          "documentNumber": "7E8037090",
+          "effectiveDate": "08-06-2016",
+          "formCode": "484",
+          "numberOfPages": "3",
+          "documentUnderRequisition": null
+        },
+        {
+          "documentQualifier": null,
+          "additionalDescriptions": [
+            {
+              "additionalDescription": "Change to Company Details",
+              "subFormCode": "484"
+            },
+            {
+              "additionalDescription": "Changes to Share Structure",
+              "subFormCode": "484O"
+            },
+            {
+              "additionalDescription": "Notification of Share Issue",
+              "subFormCode": "484G"
+            },
+            {
+              "additionalDescription": "Changes to (Members) Share Holdings",
+              "subFormCode": "484N"
+            }
+          ],
+          "dateProcessed": "21-03-2016",
+          "dateReceived": "21-03-2016",
+          "documentNumber": "7E7803734",
+          "effectiveDate": "21-03-2016",
+          "formCode": "484",
+          "numberOfPages": "3",
+          "documentUnderRequisition": null
+        },
+        {
+          "documentQualifier": null,
+          "additionalDescriptions": [
+            {
+              "additionalDescription": "Change to Company Details Appointment or Cessation of A Company Officeholder",
+              "subFormCode": "484E"
+            }
+          ],
+          "dateProcessed": "30-10-2015",
+          "dateReceived": "30-10-2015",
+          "documentNumber": "7E7430262",
+          "effectiveDate": "30-10-2015",
+          "formCode": "484",
+          "numberOfPages": "2",
+          "documentUnderRequisition": null
+        },
+        {
+          "documentQualifier": null,
+          "additionalDescriptions": [
+            {
+              "additionalDescription": "Change to Company Details Appointment or Cessation of A Company Officeholder",
+              "subFormCode": "484E"
+            }
+          ],
+          "dateProcessed": "25-08-2015",
+          "dateReceived": "25-08-2015",
+          "documentNumber": "7E7244733",
+          "effectiveDate": "25-08-2015",
+          "formCode": "484",
+          "numberOfPages": "2",
+          "documentUnderRequisition": null
+        },
+        {
+          "documentQualifier": null,
+          "additionalDescriptions": [
+            {
+              "additionalDescription": "Change to Company Details Appointment or Cessation of A Company Officeholder",
+              "subFormCode": "484E"
+            }
+          ],
+          "dateProcessed": "05-08-2015",
+          "dateReceived": "05-08-2015",
+          "documentNumber": "7E7192899",
+          "effectiveDate": "05-08-2015",
+          "formCode": "484",
+          "numberOfPages": "2",
+          "documentUnderRequisition": null
+        },
+        {
+          "documentQualifier": null,
+          "additionalDescriptions": [
+            {
+              "additionalDescription": "Change to Company Details Change Member Name or Address",
+              "subFormCode": "484A2"
+            }
+          ],
+          "dateProcessed": "13-01-2015",
+          "dateReceived": "13-01-2015",
+          "documentNumber": "7E6645063",
+          "effectiveDate": "13-01-2015",
+          "formCode": "484",
+          "numberOfPages": "2",
+          "documentUnderRequisition": null
+        },
+        {
+          "documentQualifier": null,
+          "additionalDescriptions": [
+            {
+              "additionalDescription": "Change to Company Details",
+              "subFormCode": "484"
+            },
+            {
+              "additionalDescription": "Change of Registered Address",
+              "subFormCode": "484B"
+            },
+            {
+              "additionalDescription": "Change of Principal Place of Business (Address)",
+              "subFormCode": "484C"
+            }
+          ],
+          "dateProcessed": "13-01-2015",
+          "dateReceived": "13-01-2015",
+          "documentNumber": "7E6645053",
+          "effectiveDate": "13-01-2015",
+          "formCode": "484",
+          "numberOfPages": "2",
+          "documentUnderRequisition": null
+        },
+        {
+          "documentQualifier": null,
+          "additionalDescriptions": [
+            {
+              "additionalDescription": "Change to Company Details Changes to (Members) Share Holdings",
+              "subFormCode": "484N"
+            }
+          ],
+          "dateProcessed": "13-01-2015",
+          "dateReceived": "13-01-2015",
+          "documentNumber": "7E6644940",
+          "effectiveDate": "13-01-2015",
+          "formCode": "484",
+          "numberOfPages": "3",
+          "documentUnderRequisition": null
+        },
+        {
+          "documentQualifier": null,
+          "additionalDescriptions": [
+            {
+              "additionalDescription": "Change to Company Details Change Officeholder Name Or Address",
+              "subFormCode": "484A1"
+            }
+          ],
+          "dateProcessed": "12-01-2015",
+          "dateReceived": "12-01-2015",
+          "documentNumber": "7E6642307",
+          "effectiveDate": "12-01-2015",
+          "formCode": "484",
+          "numberOfPages": "2",
+          "documentUnderRequisition": null
+        },
+        {
+          "documentQualifier": null,
+          "additionalDescriptions": [
+            {
+              "additionalDescription": "Change to Company Details Change Member Name or Address",
+              "subFormCode": "484A2"
+            }
+          ],
+          "dateProcessed": "12-01-2015",
+          "dateReceived": "12-01-2015",
+          "documentNumber": "7E6642317",
+          "effectiveDate": "12-01-2015",
+          "formCode": "484",
+          "numberOfPages": "2",
+          "documentUnderRequisition": null
+        },
+        {
+          "documentQualifier": null,
+          "additionalDescriptions": [
+            {
+              "additionalDescription": "Change to Company Details Appointment or Cessation of A Company Officeholder",
+              "subFormCode": "484E"
+            }
+          ],
+          "dateProcessed": "10-12-2014",
+          "dateReceived": "10-12-2014",
+          "documentNumber": "7E6585811",
+          "effectiveDate": "10-12-2014",
+          "formCode": "484",
+          "numberOfPages": "2",
+          "documentUnderRequisition": null
+        },
+        {
+          "documentQualifier": null,
+          "additionalDescriptions": [
+            {
+              "additionalDescription": "Supplementary Document Alters 7E6 361 437",
+              "subFormCode": "902"
+            }
+          ],
+          "dateProcessed": "22-09-2014",
+          "dateReceived": "18-09-2014",
+          "documentNumber": "028631258",
+          "effectiveDate": "11-09-2014",
+          "formCode": "902",
+          "numberOfPages": "2",
+          "documentUnderRequisition": null
+        },
+        {
+          "documentQualifier": null,
+          "additionalDescriptions": [
+            {
+              "additionalDescription": "Change to Company Details",
+              "subFormCode": "484"
+            },
+            {
+              "additionalDescription": "Changes to Share Structure",
+              "subFormCode": "484O"
+            },
+            {
+              "additionalDescription": "Notification of Share Issue",
+              "subFormCode": "484G"
+            },
+            {
+              "additionalDescription": "Changes to (Members) Share Holdings",
+              "subFormCode": "484N"
+            }
+          ],
+          "dateProcessed": "11-09-2014",
+          "dateReceived": "11-09-2014",
+          "documentNumber": "7E6359915",
+          "effectiveDate": "11-09-2014",
+          "formCode": "484",
+          "numberOfPages": "2",
+          "documentUnderRequisition": null
+        },
+        {
+          "documentQualifier": null,
+          "additionalDescriptions": [
+            {
+              "additionalDescription": "Change to Company Details",
+              "subFormCode": "484"
+            },
+            {
+              "additionalDescription": "Appointment or Cessation of a Company Officeholder",
+              "subFormCode": "484E"
+            },
+            {
+              "additionalDescription": "Changes to Share Structure",
+              "subFormCode": "484O"
+            },
+            {
+              "additionalDescription": "Notification of Share Cancellation - Company Buy-Back",
+              "subFormCode": "484J"
+            },
+            {
+              "additionalDescription": "Changes to (Members) Share Holdings",
+              "subFormCode": "484N"
+            }
+          ],
+          "dateProcessed": "11-09-2014",
+          "dateReceived": "11-09-2014",
+          "documentNumber": "7E6358669",
+          "effectiveDate": "11-09-2014",
+          "formCode": "484",
+          "numberOfPages": "3",
+          "documentUnderRequisition": null
+        },
+        {
+          "documentQualifier": null,
+          "additionalDescriptions": [
+            {
+              "additionalDescription": "Change to Company Details",
+              "subFormCode": "484"
+            },
+            {
+              "additionalDescription": "Changes to Share Structure",
+              "subFormCode": "484O"
+            },
+            {
+              "additionalDescription": "Notification of Share Issue",
+              "subFormCode": "484G"
+            },
+            {
+              "additionalDescription": "Changes to (Members) Share Holdings Altered by 028 631 258",
+              "subFormCode": "484N"
+            }
+          ],
+          "dateProcessed": "11-09-2014",
+          "dateReceived": "11-09-2014",
+          "documentNumber": "7E6361437",
+          "effectiveDate": "11-09-2014",
+          "formCode": "484",
+          "numberOfPages": "2",
+          "documentUnderRequisition": null
+        },
+        {
+          "documentQualifier": null,
+          "additionalDescriptions": [
+            {
+              "additionalDescription": "Notice of Meeting And Documents Re Buy-Back",
+              "subFormCode": "280"
+            }
+          ],
+          "dateProcessed": "25-07-2014",
+          "dateReceived": "21-07-2014",
+          "documentNumber": "029008578",
+          "effectiveDate": "21-07-2014",
+          "formCode": "280",
+          "numberOfPages": "25",
+          "documentUnderRequisition": null
+        },
+        {
+          "documentQualifier": null,
+          "additionalDescriptions": [
+            {
+              "additionalDescription": "Change to Company Details Changes to (Members) Share Holdings",
+              "subFormCode": "484N"
+            }
+          ],
+          "dateProcessed": "08-07-2014",
+          "dateReceived": "08-07-2014",
+          "documentNumber": "7E6196270",
+          "effectiveDate": "08-07-2014",
+          "formCode": "484",
+          "numberOfPages": "2",
+          "documentUnderRequisition": null
+        },
+        {
+          "documentQualifier": null,
+          "additionalDescriptions": [
+            {
+              "additionalDescription": "Change to Company Details Appointment or Cessation of A Company Officeholder",
+              "subFormCode": "484E"
+            }
+          ],
+          "dateProcessed": "08-07-2014",
+          "dateReceived": "08-07-2014",
+          "documentNumber": "7E6196090",
+          "effectiveDate": "08-07-2014",
+          "formCode": "484",
+          "numberOfPages": "2",
+          "documentUnderRequisition": null
+        },
+        {
+          "documentQualifier": null,
+          "additionalDescriptions": [
+            {
+              "additionalDescription": "Change to Company Details",
+              "subFormCode": "484"
+            },
+            {
+              "additionalDescription": "Changes to Share Structure",
+              "subFormCode": "484O"
+            },
+            {
+              "additionalDescription": "Notification of Share Issue",
+              "subFormCode": "484G"
+            },
+            {
+              "additionalDescription": "Changes to (Members) Share Holdings",
+              "subFormCode": "484N"
+            }
+          ],
+          "dateProcessed": "13-03-2014",
+          "dateReceived": "13-03-2014",
+          "documentNumber": "7E5906970",
+          "effectiveDate": "13-03-2014",
+          "formCode": "484",
+          "numberOfPages": "2",
+          "documentUnderRequisition": null
+        },
+        {
+          "documentQualifier": null,
+          "additionalDescriptions": [
+            {
+              "additionalDescription": "Change to Company Details Changes to (Members) Share Holdings",
+              "subFormCode": "484N"
+            }
+          ],
+          "dateProcessed": "19-04-2013",
+          "dateReceived": "19-04-2013",
+          "documentNumber": "7E5164712",
+          "effectiveDate": "19-04-2013",
+          "formCode": "484",
+          "numberOfPages": "2",
+          "documentUnderRequisition": null
+        },
+        {
+          "documentQualifier": null,
+          "additionalDescriptions": [
+            {
+              "additionalDescription": "Change to Company Details Appointment or Cessation of A Company Officeholder",
+              "subFormCode": "484E"
+            }
+          ],
+          "dateProcessed": "27-10-2012",
+          "dateReceived": "27-10-2012",
+          "documentNumber": "7E4809878",
+          "effectiveDate": "27-10-2012",
+          "formCode": "484",
+          "numberOfPages": "2",
+          "documentUnderRequisition": null
+        },
+        {
+          "documentQualifier": null,
+          "additionalDescriptions": [
+            {
+              "additionalDescription": "Change to Company Details",
+              "subFormCode": "484"
+            },
+            {
+              "additionalDescription": "Appointment or Cessation of a Company Officeholder",
+              "subFormCode": "484E"
+            },
+            {
+              "additionalDescription": "Notification of Share Issue",
+              "subFormCode": "484G"
+            },
+            {
+              "additionalDescription": "Changes to Share Structure",
+              "subFormCode": "484O"
+            },
+            {
+              "additionalDescription": "Changes to (Members) Share Holdings",
+              "subFormCode": "484N"
+            }
+          ],
+          "dateProcessed": "09-07-2012",
+          "dateReceived": "05-07-2012",
+          "documentNumber": "028094795",
+          "effectiveDate": "06-07-2012",
+          "formCode": "484",
+          "numberOfPages": "7",
+          "documentUnderRequisition": null
+        },
+        {
+          "documentQualifier": null,
+          "additionalDescriptions": [
+            {
+              "additionalDescription": "Notification of Resolution Relating to Shares Convert Shares Into Larger or Smaller Number",
+              "subFormCode": "2205B"
+            }
+          ],
+          "dateProcessed": "09-07-2012",
+          "dateReceived": "05-07-2012",
+          "documentNumber": "028094794",
+          "effectiveDate": "25-11-2011",
+          "formCode": "2205",
+          "numberOfPages": "7",
+          "documentUnderRequisition": null
+        },
+        {
+          "documentQualifier": null,
+          "additionalDescriptions": [
+            {
+              "additionalDescription": "Change to Company Details",
+              "subFormCode": "484"
+            },
+            {
+              "additionalDescription": "Change of Registered Address",
+              "subFormCode": "484B"
+            },
+            {
+              "additionalDescription": "Change of Principal Place of Business (Address)",
+              "subFormCode": "484C"
+            }
+          ],
+          "dateProcessed": "24-05-2012",
+          "dateReceived": "24-05-2012",
+          "documentNumber": "7E4475906",
+          "effectiveDate": "24-05-2012",
+          "formCode": "484",
+          "numberOfPages": "2",
+          "documentUnderRequisition": null
+        },
+        {
+          "documentQualifier": null,
+          "additionalDescriptions": [
+            {
+              "additionalDescription": "Change to Company Details Changes to (Members) Share Holdings",
+              "subFormCode": "484N"
+            }
+          ],
+          "dateProcessed": "15-11-2011",
+          "dateReceived": "15-11-2011",
+          "documentNumber": "7E4091758",
+          "effectiveDate": "15-11-2011",
+          "formCode": "484",
+          "numberOfPages": "2",
+          "documentUnderRequisition": null
+        },
+        {
+          "documentQualifier": null,
+          "additionalDescriptions": [
+            {
+              "additionalDescription": "Application For Registration as a Proprietary Company",
+              "subFormCode": "201C"
+            }
+          ],
+          "dateProcessed": "27-10-2006",
+          "dateReceived": "27-10-2006",
+          "documentNumber": "1E2635086",
+          "effectiveDate": "27-10-2006",
+          "formCode": "201",
+          "numberOfPages": "3",
+          "documentUnderRequisition": null
+        }
+      ],
+      "endOfMessage": {
+        "endOfMessage": "YTRENDDSCD",
+        "segmentCount": 42
+      },
+      "organisationFormerName": []
+    },
+    "ppsr": {
+      "searchByAbn": {
+        "nevdisVehicles": [],
+        "registrations": [],
+        "searchNumber": null,
+        "searchType": null
+      },
+      "searchByAcn": {
+        "nevdisVehicles": [],
+        "registrations": [],
+        "searchNumber": null,
+        "searchType": null
+      },
+      "searchByName": {
+        "nevdisVehicles": [],
+        "registrations": [],
+        "searchNumber": null,
+        "searchType": null
+      }
+    },
+    "pdf_content": {
+      "directors": [
+        {
+          "name": "COLIN JOHN LAMOND",
+          "position": "Director",
+          "since": "07-07-2014 (8 years and 5 months)",
+          "bankruptcyText": "NO BANKRUPTCY MATCH FOUND",
+          "dob": "13-08-1960",
+          "age": "62 Years old",
+          "place_of_birth": "GRAYS ESSEX, UNITED KINGDOM",
+          "address": "UNIT 3 40 BEN BOYD ROAD NEUTRAL BAY NSW 2089",
+          "index": 1,
+          "cross_directorships": "Known cross directorships",
+          "cross_directorships_data": {
+            "current_officeholdings": "25",
+            "previous_officeholdings": "4",
+            "court_actions": "0",
+            "payment_defaults": "0",
+            "asic_published_notices": "6",
+            "asic_administrations": "0",
+            "asic_voluntary_deregistrations": "0",
+            "mercantile_enquiries": "0",
+            "critical_asic_documents_lodged": "0",
+            "adverse_company_status": "3"
+          }
+        },
+        {
+          "name": "ANDREW CHARLES PRICE",
+          "position": "Director",
+          "since": "01-04-2015 (7 years and 8 months)",
+          "bankruptcyText": "NO BANKRUPTCY MATCH FOUND",
+          "dob": "11-02-1962",
+          "age": "60 Years old",
+          "place_of_birth": "SYDNEY, NSW",
+          "address": "69 HAWTHORNE AVENUE CHATSWOOD WEST NSW 2067",
+          "index": 2,
+          "cross_directorships": "Known cross directorships",
+          "cross_directorships_data": {
+            "current_officeholdings": "24",
+            "previous_officeholdings": "7",
+            "court_actions": "0",
+            "payment_defaults": "0",
+            "asic_published_notices": "5",
+            "asic_administrations": "0",
+            "asic_voluntary_deregistrations": "0",
+            "mercantile_enquiries": "0",
+            "critical_asic_documents_lodged": "0",
+            "adverse_company_status": "2"
+          }
+        },
+        {
+          "name": "ANDREW CHARLES PRICE",
+          "position": "Secretary",
+          "since": "01-04-2015 (7 years and 8 months)",
+          "bankruptcyText": "NO BANKRUPTCY MATCH FOUND",
+          "dob": "11-02-1962",
+          "age": "60 Years old",
+          "place_of_birth": "SYDNEY, NSW",
+          "address": "69 HAWTHORNE AVENUE CHATSWOOD WEST NSW 2067",
+          "index": 3,
+          "cross_directorships": "Known cross directorships",
+          "cross_directorships_data": {
+            "current_officeholdings": "24",
+            "previous_officeholdings": "7",
+            "court_actions": "0",
+            "payment_defaults": "0",
+            "asic_published_notices": "5",
+            "asic_administrations": "0",
+            "asic_voluntary_deregistrations": "0",
+            "mercantile_enquiries": "0",
+            "critical_asic_documents_lodged": "0",
+            "adverse_company_status": "2"
+          }
+        },
+        {
+          "name": "JASON MARTIN READ",
+          "position": "Secretary",
+          "since": "17-03-2017 (5 years and 9 months)",
+          "bankruptcyText": "NO BANKRUPTCY MATCH FOUND",
+          "dob": "14-11-1970",
+          "age": "52 Years old",
+          "place_of_birth": "EAST BERGHOLT ESSEX, UNITED KINGDOM",
+          "address": "16 HIBBERTIA GROVE KELLYVILLE NSW 2155",
+          "index": 4,
+          "cross_directorships": "Known cross directorships",
+          "cross_directorships_data": {
+            "current_officeholdings": "22",
+            "previous_officeholdings": "7",
+            "court_actions": "0",
+            "payment_defaults": "0",
+            "asic_published_notices": "3",
+            "asic_administrations": "0",
+            "asic_voluntary_deregistrations": "0",
+            "mercantile_enquiries": "0",
+            "critical_asic_documents_lodged": "0",
+            "adverse_company_status": "1"
+          }
+        },
+        {
+          "name": "SIMON HOLLINGDRAKE",
+          "position": "Alternate Director",
+          "since": "12-04-2019 (3 years and 8 months)",
+          "bankruptcyText": "NO BANKRUPTCY MATCH FOUND",
+          "dob": "27-08-1976",
+          "age": "46 Years old",
+          "place_of_birth": "HALIFAX, UNITED KINGDOM",
+          "address": "UNIT 13 61 GRASMERE ROAD CREMORNE NSW 2090",
+          "index": 5,
+          "cross_directorships": "Known cross directorships",
+          "cross_directorships_data": {
+            "current_officeholdings": "4",
+            "previous_officeholdings": "2",
+            "court_actions": "0",
+            "payment_defaults": "0",
+            "asic_published_notices": "0",
+            "asic_administrations": "0",
+            "asic_voluntary_deregistrations": "0",
+            "mercantile_enquiries": "0",
+            "critical_asic_documents_lodged": "0",
+            "adverse_company_status": "0"
+          }
+        }
+      ]
+    },
+    "qbcc_details": {
+      "license_number": "727579",
+      "business_name": "Mccarthy Homes (Qld) Pty Ltd",
+      "license_address": "U 4  121 Newmarket Rd  Windsor QLD 4030",
+      "mr_category": "Category 4 - $30,000,001 to $60,000,000",
+      "abn": "23086005674",
+      "acn": "086005674",
+      "licences": [
+        {
+          "licenceClass": "Builder - Low Rise",
+          "licenceGrade": "Builder Licence",
+          "licenceCondition": "NO",
+          "status": "Active",
+          "_id": "65132b4b811f740eb286c352"
+        }
+      ],
+      "disciplinary_record": {
+        "QBCC_Directions_to_Rectify_Defective_Work": true,
+        "QBCC_Disciplinary_Action": true,
+        "Tribunal_Direction_Orders": true,
+        "QBCC_Initiated_Convictions": true,
+        "Infringement_Notices_Issued": true,
+        "Demerit_Points": true,
+        "Exclusions_Disqualifications_or_Ban": true
+      },
+      "extracted_at": "2023-09-26T19:04:43.633Z",
+      "created_at": "2023-09-26T19:04:43.633Z"
+    },
+    "nsw_details": null
+  }
+}
